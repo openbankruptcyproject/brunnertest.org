@@ -6,7 +6,7 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## Adversary Proceeding Process -- How to File for Discharge -- Brunnertest
+## Adversary Proceeding Process - How to File for Discharge - Brunnertest
 Source: https://brunnertest.org/adversary-proceeding.html
 
 Adversary Proceeding Process
@@ -65,7 +65,7 @@ Further Reading & Resources
 Authority sources for deeper research on student loans and bankruptcy:
 
 11 U.S.C. Section 523(a)(8)
-Cornell LII -- student loan exception
+Cornell LII - student loan exception
 
 Federal Student Aid
 Dept. of Education
@@ -132,7 +132,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Alternatives to the Brunner Test -- Other Paths to Relief -- Brunnertest
+## Alternatives to the Brunner Test - Other Paths to Relief - Brunnertest
 Source: https://brunnertest.org/brunner-alternatives.html
 
 Alternatives to the Brunner Test
@@ -195,7 +195,7 @@ Further Reading & Resources
 Authority sources for deeper research on student loans and bankruptcy:
 
 11 U.S.C. Section 523(a)(8)
-Cornell LII -- student loan exception
+Cornell LII - student loan exception
 
 Federal Student Aid
 Dept. of Education
@@ -262,7 +262,120 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## DOJ 2022 Guidance -- What Changed for Student Loan Discharge -- Brunnertest
+## Brunner Test 3 Prongs - Student Loan Discharge Calculator [2026] - Brunnertest
+Source: https://brunnertest.org/brunner-test-3-prongs.html
+
+← brunnertest.org
+
+Brunner Test 3 Prongs - Student Loan Discharge Analysis
+
+The Brunner test is the dominant standard courts use to determine whether student loans can be discharged in bankruptcy for "undue hardship" under 11 U.S.C. Section 523(a)(8)
+
+The Three Prongs of the Brunner Test
+
+Established in Brunner v. New York State Higher Education Services Corp., 831 F.2d 395 (2d Cir. 1987), the test requires the debtor to prove all three prongs by a preponderance of the evidence:
+
+1 Poverty Prong (Current Inability to Pay)
+
+Based on current income and expenses, the debtor cannot maintain a minimal standard of living for themselves and dependents if forced to repay the student loans.
+
+What courts look at:
+
+Monthly income vs. monthly expenses (basic necessities only)
+
+Household size and dependent needs
+
+Whether expenses are reasonable and necessary
+
+Income relative to the federal poverty guidelines
+
+Tips: Courts expect a bare-bones budget. Luxury expenses hurt your case. Include all necessary medical costs, childcare, and basic transportation.
+
+2 Persistence Prong (Additional Circumstances)
+
+Additional circumstances exist indicating that this state of affairs is likely to persist for a significant portion of the repayment period.
+
+Factors courts consider strong:
+
+Physical or mental disability
+
+Advanced age with limited earning potential
+
+Lack of marketable job skills or education beyond the degree
+
+Chronic medical conditions requiring ongoing treatment
+
+Caregiving obligations for disabled family members
+
+History of prolonged unemployment despite efforts
+
+This is usually the hardest prong. You must show your situation is not temporary. A short-term job loss alone typically does not satisfy this prong.
+
+3 Good Faith Prong (Effort to Repay)
+
+The debtor has made good faith efforts to repay the loans.
+
+What helps:
+
+History of payments before financial collapse
+
+Enrollment in income-driven repayment (IDR) plans
+
+Communication with loan servicers about hardship
+
+Attempts to find employment or increase income
+
+Minimizing expenses to direct funds toward repayment
+
+What hurts:
+
+Never making a single payment when able
+
+Ignoring correspondence from servicers
+
+Filing bankruptcy immediately after graduation with no effort
+
+Refusing to explore repayment options
+
+Brunner Test Self-Assessment
+
+While there is no official "Brunner test calculator," you can evaluate your situation against each prong:
+
+ProngStrong CaseWeak Case
+
+1. PovertyIncome below poverty line, bare-bones budget, no disposable incomeAbove-median income, discretionary spending evident
+
+2. PersistencePermanent disability, age 55+, chronic illness, no advanced skillsTemporary setback, young with marketable degree
+
+3. Good FaithYears of payments, IDR enrollment, active job searchZero payments ever made, no contact with servicer
+
+The 2022 DOJ Guidance - A Game Changer
+
+In November 2022, the Department of Justice issued guidance directing U.S. Attorneys to apply a new "attestation-based" process for evaluating undue hardship claims. This has significantly increased the number of student loan discharges. Key changes:
+
+DOJ now evaluates cases based on objective factors rather than reflexively contesting every filing
+
+Borrowers who meet certain criteria may receive a DOJ recommendation for discharge
+
+The process has reduced the cost and length of adversary proceedings
+
+For details, see our DOJ guidance analysis.
+
+Circuits That Use the Brunner Test
+
+The Brunner test is used by the majority of federal circuits. The notable exception is the Eighth Circuit, which uses the "totality of circumstances" test - a somewhat more flexible standard. See our totality of circumstances comparison.
+
+Related Resources
+
+Brunner Test Overview | Three-Prong Deep Dive | Adversary Proceeding Guide | Partial Discharge | Student Loan Bankruptcy Guide
+
+Part of the Open Bankruptcy Project - free, open-source bankruptcy information.
+
+Not legal advice. Consult a licensed attorney for your specific situation.
+
+---
+
+## DOJ 2022 Guidance - What Changed for Student Loan Discharge - Brunnertest
 Source: https://brunnertest.org/doj-guidance-2023.html
 
 DOJ 2022 Guidance
@@ -321,7 +434,7 @@ Further Reading & Resources
 Authority sources for deeper research on student loans and bankruptcy:
 
 11 U.S.C. Section 523(a)(8)
-Cornell LII -- student loan exception
+Cornell LII - student loan exception
 
 Federal Student Aid
 Dept. of Education
@@ -388,7 +501,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Good Faith Requirement -- What Courts Really Look For -- Brunnertest
+## Good Faith Requirement - What Courts Really Look For - Brunnertest
 Source: https://brunnertest.org/good-faith-requirement.html
 
 Good Faith Requirement
@@ -411,7 +524,7 @@ Never making a payment with no effort to arrange one, defaulting immediately aft
 
 Frequently Asked Questions
 
-I never made any payments -- have I shown good faith?
+I never made any payments - have I shown good faith?
 
 Not automatically, but it is not fatal. If you can explain why (unemployment, disability, income below poverty) and you enrolled in IDR, courts may still find good faith.
 
@@ -447,7 +560,7 @@ Further Reading & Resources
 Authority sources for deeper research on student loans and bankruptcy:
 
 11 U.S.C. Section 523(a)(8)
-Cornell LII -- student loan exception
+Cornell LII - student loan exception
 
 Federal Student Aid
 Dept. of Education
@@ -514,12 +627,14 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Brunner Test -- 3 Prongs for Student Loan Discharge [2026] -- Brunnertest
+## Brunner Test - 3 Prongs for Student Loan Discharge [2026] - Brunnertest
 Source: https://brunnertest.org/
+
+Skip to main content
 
 🌐 Esta pagina esta disponible en Espanol
 
-Brunner Test -- 3 Prongs for Student Loan Discharge
+Brunner Test - 3 Prongs for Student Loan Discharge
 
 How Courts Decide If Student Loans Can Be Discharged in Bankruptcy
 
@@ -541,13 +656,13 @@ Prong 1: Minimal Standard of Living
 
 You must show that, based on current income and expenses, you cannot maintain a minimal standard of living for yourself and your dependents while repaying the student loans. Courts typically compare your income to the federal poverty guidelines. If your income minus necessary expenses leaves insufficient funds to make loan payments, this prong is satisfied.
 
-"Minimal" means basic necessities -- housing, food, utilities, transportation, medical care. Courts will scrutinize your budget: cable TV, dining out, and gym memberships may be considered non-essential. You must demonstrate genuine financial hardship, not merely inconvenience.
+"Minimal" means basic necessities - housing, food, utilities, transportation, medical care. Courts will scrutinize your budget: cable TV, dining out, and gym memberships may be considered non-essential. You must demonstrate genuine financial hardship, not merely inconvenience.
 
 Prong 2: Persistence of Hardship
 
 You must show "additional circumstances" indicating your financial hardship will continue for a significant portion of the repayment period. Courts look for: chronic illness or disability, advanced age with limited earning potential, lack of marketable job skills, prolonged unemployment despite good-faith job searches, and caring for dependents with special needs.
 
-This is often the hardest prong. Courts have denied discharge to young, healthy borrowers -- reasoning that their situation might improve. The key is documenting why your circumstances are unlikely to change: medical records, vocational assessments, employment history, and age/education factors.
+This is often the hardest prong. Courts have denied discharge to young, healthy borrowers - reasoning that their situation might improve. The key is documenting why your circumstances are unlikely to change: medical records, vocational assessments, employment history, and age/education factors.
 
 Prong 3: Good-Faith Effort to Repay
 
@@ -569,7 +684,7 @@ In January 2023, a federal bankruptcy judge in the Southern District of New York
 
 How to File for Student Loan Discharge
 
-Student loan discharge requires filing an adversary proceeding -- a separate lawsuit within your bankruptcy case. Step 1: File your bankruptcy petition (Chapter 7 or Chapter 13). Step 2: File a complaint to determine dischargeability (Adversary Proceeding). Step 3: Serve the complaint on your student loan servicer/holder. Step 4: Litigate or negotiate -- many cases settle for partial discharge. Step 5: Obtain a judgment from the court.
+Student loan discharge requires filing an adversary proceeding - a separate lawsuit within your bankruptcy case. Step 1: File your bankruptcy petition (Chapter 7 or Chapter 13). Step 2: File a complaint to determine dischargeability (Adversary Proceeding). Step 3: Serve the complaint on your student loan servicer/holder. Step 4: Litigate or negotiate - many cases settle for partial discharge. Step 5: Obtain a judgment from the court.
 
 This is one area where having an attorney is strongly recommended. The adversary proceeding involves discovery, potential depositions, and a trial if the case does not settle. Some bankruptcy attorneys handle these on contingency. Pro se filing of the bankruptcy itself is possible, but the adversary proceeding is complex.
 
@@ -581,23 +696,23 @@ Cases with strong documentation succeed more often. The more evidence you can pr
 
 Explore All Topics
 
-The Three Prongs of the Brunner Test -- Explained in Detail
+The Three Prongs of the Brunner Test - Explained in Detail
 
-Good Faith Requirement -- What Courts Really Look For
+Good Faith Requirement - What Courts Really Look For
 
-Persistent Effort -- Building Your Case Over Time
+Persistent Effort - Building Your Case Over Time
 
-Totality of Circumstances Test -- The Brunner Alternative
+Totality of Circumstances Test - The Brunner Alternative
 
-Partial Student Loan Discharge -- Reducing What You Owe
+Partial Student Loan Discharge - Reducing What You Owe
 
-Adversary Proceeding Process -- How to File for Discharge
+Adversary Proceeding Process - How to File for Discharge
 
-DOJ 2022 Guidance -- What Changed for Student Loan Discharge
+DOJ 2022 Guidance - What Changed for Student Loan Discharge
 
-Alternatives to the Brunner Test -- Other Paths to Relief
+Alternatives to the Brunner Test - Other Paths to Relief
 
-Recent Student Loan Discharge Cases -- What Courts Are Deciding
+Recent Student Loan Discharge Cases - What Courts Are Deciding
 
 Frequently Asked Questions
 
@@ -611,7 +726,7 @@ No. Disability is one factor courts consider, but it is not required. Other qual
 
 What percentage of people who try actually get their student loans discharged?
 
-Recent studies show that borrowers who file adversary proceedings succeed in getting full or partial discharge approximately 40-50% of the time. The success rate has increased since the 2022 DOJ guidance. The biggest barrier is not the legal standard -- it is that most people never try.
+Recent studies show that borrowers who file adversary proceedings succeed in getting full or partial discharge approximately 40-50% of the time. The success rate has increased since the 2022 DOJ guidance. The biggest barrier is not the legal standard - it is that most people never try.
 
 Check your bankruptcy discharge eligibility with our free screening tool.
 
@@ -647,7 +762,7 @@ Further Reading & Resources
 Authority sources for deeper research on student loans and bankruptcy:
 
 11 U.S.C. Section 523(a)(8)
-Cornell LII -- student loan exception
+Cornell LII - student loan exception
 
 Federal Student Aid
 Dept. of Education
@@ -695,7 +810,7 @@ studentloandefault.org →
 
 Your Next Questions
 
-Real users ask these next -- we built the answers.
+Real users ask these next - we built the answers.
 
 Chapter 7 vs Chapter 13
 
@@ -809,7 +924,7 @@ Thank you! We typically respond within one business day.
 
 You May Also Find Helpful
 
-Brunner Test 3 Prongs -- Detailed Analysis & Self-Assessment
+Brunner Test 3 Prongs - Detailed Analysis & Self-Assessment
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
@@ -832,6 +947,7 @@ Means Test
 File Without a Lawyer
 Rebuild Credit
 brunnertest.org
+Rule 9037 PII Scanner
 
 Free bankruptcy education for the public interest. Not legal advice.
 If you need legal help, contact a licensed attorney in your state.
@@ -845,9 +961,11 @@ Terms
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
+Cited by the Federal Rules Committee (26-BK-3)
+
 ---
 
-## Partial Student Loan Discharge -- Reducing What You Owe -- Brunnertest
+## Partial Student Loan Discharge - Reducing What You Owe - Brunnertest
 Source: https://brunnertest.org/partial-discharge.html
 
 Partial Student Loan Discharge
@@ -880,7 +998,7 @@ Yes. The same undue hardship standard applies. Private lenders may settle rather
 
 What happens to the remaining balance?
 
-You must arrange repayment with the lender -- original terms, modification, or IDR for federal loans. The court may set repayment terms.
+You must arrange repayment with the lender - original terms, modification, or IDR for federal loans. The court may set repayment terms.
 
 Check your bankruptcy discharge eligibility with our free screening tool.
 Free Discharge Screener
@@ -906,7 +1024,7 @@ Further Reading & Resources
 Authority sources for deeper research on student loans and bankruptcy:
 
 11 U.S.C. Section 523(a)(8)
-Cornell LII -- student loan exception
+Cornell LII - student loan exception
 
 Federal Student Aid
 Dept. of Education
@@ -973,7 +1091,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Persistent Effort -- Building Your Case Over Time -- Brunnertest
+## Persistent Effort - Building Your Case Over Time - Brunnertest
 Source: https://brunnertest.org/persistent-effort.html
 
 Persistent Effort
@@ -1032,7 +1150,7 @@ Further Reading & Resources
 Authority sources for deeper research on student loans and bankruptcy:
 
 11 U.S.C. Section 523(a)(8)
-Cornell LII -- student loan exception
+Cornell LII - student loan exception
 
 Federal Student Aid
 Dept. of Education
@@ -1099,7 +1217,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Recent Student Loan Discharge Cases -- What Courts Are Deciding -- Brunnertest
+## Recent Student Loan Discharge Cases - What Courts Are Deciding - Brunnertest
 Source: https://brunnertest.org/recent-case-outcomes.html
 
 Recent Student Loan Discharge Cases
@@ -1158,7 +1276,7 @@ Further Reading & Resources
 Authority sources for deeper research on student loans and bankruptcy:
 
 11 U.S.C. Section 523(a)(8)
-Cornell LII -- student loan exception
+Cornell LII - student loan exception
 
 Federal Student Aid
 Dept. of Education
@@ -1225,259 +1343,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## The Three Prongs of the Brunner Test -- Explained in Detail -- Brunnertest
-Source: https://brunnertest.org/three-prong-test.html
-
-The Three Prongs of the Brunner Test
-
-Explained in Detail
-
-Home » The Three Prongs of the Brunner Test
-
-Prong 1: Current Inability to Pay
-
-Can you maintain a minimal standard of living while repaying? Courts examine current income, necessary expenses, and dependents. You do not need to be destitute -- just show that repayment would force you below a minimal standard.
-
-Prong 2: Persistence of Circumstances
-
-Will your situation persist for a significant portion of the repayment period? Courts look at age, health, education, job skills, employment history, and any circumstances unlikely to change.
-
-Prong 3: Good Faith Effort to Repay
-
-Have you made a good faith effort? Courts consider payments made, income-driven repayment enrollment, employment efforts, and income maximization. Enrolling in IDR at $0 counts as good faith.
-
-Frequently Asked Questions
-
-Do I have to meet all three prongs?
-
-In Brunner circuits, yes. But the 2022 DOJ guidance instructs a more holistic view. Some circuits use the totality of circumstances test instead.
-
-What evidence do I need?
-
-Prong 1: pay stubs, tax returns, budget. Prong 2: medical records, employment records, job search logs. Prong 3: loan payment history, IDR enrollment, employment history.
-
-Has the Brunner test been overturned?
-
-Not yet, but it is under significant pressure. The 2022 DOJ guidance effectively softened it. Several courts have adopted alternative tests. Legislative efforts continue.
-
-Check your bankruptcy discharge eligibility with our free screening tool.
-Free Discharge Screener
-
-About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code) and the Fair Debt Collection Practices Act. This is educational content, not legal advice.
-
-Related Guides
-
-Credit Card Debt in Bankruptcy
-
-EIDL Loans in Bankruptcy
-
-Medical Bills in Bankruptcy
-
-SBA Loans in Bankruptcy
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-♥ Sponsor
-
-Further Reading & Resources
-
-Authority sources for deeper research on student loans and bankruptcy:
-
-11 U.S.C. Section 523(a)(8)
-Cornell LII -- student loan exception
-
-Federal Student Aid
-Dept. of Education
-
-DOJ Student Loan Guidance
-2022 guidance on undue hardship
-
-CFPB Student Loan Resources
-CFPB tools
-
-Find Free Legal Aid
-LSC legal aid finder
-
-NCLC Student Loans
-National Consumer Law Center
-
-Brunner Test Research
-Google Scholar
-
-Related Guides
-
-Student Loans in Bankruptcy
-
-Can student loans be discharged?
-
-bankruptcystudentloans.org →
-
-Bankruptcy Hardship Discharge
-
-Hardship discharge in Chapter 13
-
-bankruptcyhardship.org →
-
-Disability and Debt
-
-Free bankruptcy information guide
-
-disabilityanddebt.org →
-
-Student Loan Default
-
-Free bankruptcy information guide
-
-studentloandefault.org →
-
-You May Also Find Helpful
-
-Student Loan Forgiveness Programs -- studentloanforgive.org
-
-Bankruptcy Means Test by State -- bankruptcymeanstest.org
-
-Student Loans in Bankruptcy -- bankruptcystudentloans.org
-
-Part of the Bankruptcy Transparency Network
-
-Discharge Screener Open Bankruptcy Project Ch.7 vs Ch.13 Automatic Stay Bankruptcy Cost Means Test Deficiency Balance Brunner Test Debt Buyer Rights Vacate Judgment
-
-Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
-
-Privacy | Terms
-♥ Sponsor
-
-Our research was cited by the federal judiciary as Suggestion 26-BK-3
-
----
-
-## Totality of Circumstances Test -- The Brunner Alternative -- Brunnertest
-Source: https://brunnertest.org/totality-of-circumstances.html
-
-Totality of Circumstances Test
-
-The Brunner Alternative
-
-Home » Totality of Circumstances Test
-
-What Is the Totality Test?
-
-Established in In re Long (322 F.3d 549, 8th Cir. 2003), it considers all relevant factors holistically: income, expenses, health, age, education, dependents, other debts. No single factor is dispositive.
-
-Which Courts Use It?
-
-The Eighth Circuit (AR, IA, MN, MO, NE, ND, SD) officially uses it. The First Circuit has a similar approach. Some other courts apply it in practice while nominally using Brunner.
-
-Advantages Over Brunner
-
-More favorable for borrowers: no rigid prong-by-prong analysis, considers unique circumstances, aligns with DOJ guidance, and focuses on the overall picture.
-
-Frequently Asked Questions
-
-Can I choose which test applies?
-
-No. The test depends on your federal circuit. You cannot forum-shop by filing in a different circuit.
-
-Does the DOJ guidance override Brunner?
-
-Not legally, but practically it has significant effect. Government attorneys evaluate more holistically and consent to discharge more frequently.
-
-Is the totality test easier to pass?
-
-Generally yes. Studies show higher discharge rates in totality-test circuits. But it still requires genuine hardship -- it is not automatic.
-
-Check your bankruptcy discharge eligibility with our free screening tool.
-Free Discharge Screener
-
-About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code) and the Fair Debt Collection Practices Act. This is educational content, not legal advice.
-
-Related Guides
-
-Credit Card Debt in Bankruptcy
-
-EIDL Loans in Bankruptcy
-
-Medical Bills in Bankruptcy
-
-SBA Loans in Bankruptcy
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-♥ Sponsor
-
-Further Reading & Resources
-
-Authority sources for deeper research on student loans and bankruptcy:
-
-11 U.S.C. Section 523(a)(8)
-Cornell LII -- student loan exception
-
-Federal Student Aid
-Dept. of Education
-
-DOJ Student Loan Guidance
-2022 guidance on undue hardship
-
-CFPB Student Loan Resources
-CFPB tools
-
-Find Free Legal Aid
-LSC legal aid finder
-
-NCLC Student Loans
-National Consumer Law Center
-
-Brunner Test Research
-Google Scholar
-
-Related Guides
-
-Student Loans in Bankruptcy
-
-Can student loans be discharged?
-
-bankruptcystudentloans.org →
-
-Bankruptcy Hardship Discharge
-
-Hardship discharge in Chapter 13
-
-bankruptcyhardship.org →
-
-Disability and Debt
-
-Free bankruptcy information guide
-
-disabilityanddebt.org →
-
-Student Loan Default
-
-Free bankruptcy information guide
-
-studentloandefault.org →
-
-You May Also Find Helpful
-
-Student Loan Forgiveness Programs -- studentloanforgive.org
-
-Bankruptcy Means Test by State -- bankruptcymeanstest.org
-
-Student Loans in Bankruptcy -- bankruptcystudentloans.org
-
-Part of the Bankruptcy Transparency Network
-
-Discharge Screener Open Bankruptcy Project Ch.7 vs Ch.13 Automatic Stay Bankruptcy Cost Means Test Deficiency Balance Brunner Test Debt Buyer Rights Vacate Judgment
-
-Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
-
-Privacy | Terms
-♥ Sponsor
-
-Our research was cited by the federal judiciary as Suggestion 26-BK-3
-
----
-
-## Student Loan Bankruptcy Terms You Need to Know -- 25+ Definitions -- Brunnertest
+## Student Loan Bankruptcy Terms You Need to Know - 25+ Definitions - Brunnertest
 Source: https://brunnertest.org/student-loan-terms.html
 
 Student Loan Bankruptcy Terms
@@ -1496,7 +1362,7 @@ Totality of Circumstances TestAn alternative to Brunner used in the 8th Circuit 
 
 Certainty of HopelessnessAn extreme interpretation of Brunner's second prong requiring the debtor to show that their financial situation is certain to remain dire for the foreseeable future. Some courts have required debtors to prove they have a permanent disability, are elderly, or have exhausted all possible avenues to increase income. This interpretation has been widely criticized as reading more into the statute than Congress intended. The DOJ 2022 guidance and several recent circuit decisions have pushed back against this standard.
 
-Minimal Standard of LivingThe first prong of the Brunner test. The debtor must show that repaying the student loans -- at their current income and expenses -- would prevent them from maintaining a basic standard of living for themselves and their dependents. Courts look at income, necessary expenses (housing, food, medical, transportation), and the monthly loan payment. Living modestly is expected -- the standard is "minimal," not "comfortable."
+Minimal Standard of LivingThe first prong of the Brunner test. The debtor must show that repaying the student loans - at their current income and expenses - would prevent them from maintaining a basic standard of living for themselves and their dependents. Courts look at income, necessary expenses (housing, food, medical, transportation), and the monthly loan payment. Living modestly is expected - the standard is "minimal," not "comfortable."
 
 Good Faith EffortThe third prong of the Brunner test. The debtor must demonstrate they made genuine efforts to repay the loans before seeking bankruptcy discharge. Evidence includes: making payments when able, enrolling in income-driven repayment plans, maintaining employment, not living extravagantly, communicating with lenders about hardship, and exploring deferment/forbearance options. See the good faith guide.
 
@@ -1504,11 +1370,11 @@ Procedures and Filings
 
 Adversary ProceedingA separate lawsuit filed within your bankruptcy case to determine the dischargeability of student loans. Filed as a complaint with the bankruptcy court clerk. The student loan lender and/or Department of Education are named as defendants. Follows the Federal Rules of Bankruptcy Procedure (Part VII). Filing fee is approximately $350. See the adversary proceeding guide.
 
-11 U.S.C. 523(a)(8)The Bankruptcy Code provision that excepts student loans from discharge "unless excepting such debt from discharge ... would impose an undue hardship on the debtor and the debtor's dependents." This is the statute that makes student loan discharge difficult -- but not impossible. It applies to both federal and qualifying private student loans.
+11 U.S.C. 523(a)(8)The Bankruptcy Code provision that excepts student loans from discharge "unless excepting such debt from discharge ... would impose an undue hardship on the debtor and the debtor's dependents." This is the statute that makes student loan discharge difficult - but not impossible. It applies to both federal and qualifying private student loans.
 
 Partial DischargeSome courts will discharge a portion of the student loan debt while leaving the rest nondischargeable. For example, discharging accrued interest and penalties while requiring repayment of the original principal. Or discharging some loans but not others. Courts have broad equitable authority here. See the partial discharge guide.
 
-Consent Decree / Stipulated DischargeWhen the DOJ (for federal loans) or a private lender agrees to discharge without a trial. Under the 2022 DOJ guidance, if the department's analysis supports discharge, they will stipulate -- the debtor does not need to go through full litigation. This has dramatically shortened and simplified many federal student loan discharge cases.
+Consent Decree / Stipulated DischargeWhen the DOJ (for federal loans) or a private lender agrees to discharge without a trial. Under the 2022 DOJ guidance, if the department's analysis supports discharge, they will stipulate - the debtor does not need to go through full litigation. This has dramatically shortened and simplified many federal student loan discharge cases.
 
 DOJ/DOE Guidance (November 2022)Formally titled "Guidance on the Treatment of Student Loan Obligations in Bankruptcy." Directs DOJ attorneys to evaluate student loan discharge cases using a standardized analytical framework rather than automatically opposing every request. Considers: borrower age, disability, income and expense history, loan repayment history, time since leaving school, and whether the borrower obtained a degree. Has led to a significant increase in federal student loan discharges since 2023. See the DOJ guidance breakdown.
 
@@ -1522,11 +1388,11 @@ FFEL Loans (Federal Family Education Loan)Older federal student loans originated
 
 Private Student LoansLoans from banks, credit unions, or private lenders (e.g., Sallie Mae, SoFi, Earnest). Subject to 523(a)(8) if they meet the statute's definition of a "qualified education loan." Loans from non-accredited institutions, loans exceeding cost of attendance, or loans not used for qualified education expenses may fall outside 523(a)(8) and could be dischargeable without proving undue hardship.
 
-Income-Driven Repayment (IDR)Federal repayment plans that cap monthly payments at a percentage of your discretionary income. Plans include SAVE (formerly REPAYE), PAYE, IBR, and ICR. Relevant to bankruptcy because enrollment in IDR demonstrates good faith effort (Brunner prong 3). Some courts ask why the debtor needs a discharge when IDR payments may be $0/month -- but courts increasingly recognize that 20-25 years of IDR with a tax bomb on forgiven debt can itself constitute hardship.
+Income-Driven Repayment (IDR)Federal repayment plans that cap monthly payments at a percentage of your discretionary income. Plans include SAVE (formerly REPAYE), PAYE, IBR, and ICR. Relevant to bankruptcy because enrollment in IDR demonstrates good faith effort (Brunner prong 3). Some courts ask why the debtor needs a discharge when IDR payments may be $0/month - but courts increasingly recognize that 20-25 years of IDR with a tax bomb on forgiven debt can itself constitute hardship.
 
 SAVE Plan (formerly REPAYE)The Saving on a Valuable Education plan. Caps payments at 5% of discretionary income for undergraduate loans (10% for graduate). Forgiveness after 20 years (undergrad) or 25 years (graduate). The Biden administration introduced SAVE in 2023 to replace REPAYE, but the plan has faced legal challenges. Status may depend on current litigation.
 
-Public Service Loan Forgiveness (PSLF)Forgives remaining federal loan balance after 120 qualifying monthly payments while working full-time for a qualifying public service employer. Relevant to bankruptcy because courts consider whether PSLF could resolve the debt without discharge. However, PSLF requires 10 years of qualifying employment -- which may be impossible for disabled or elderly borrowers, supporting the undue hardship argument.
+Public Service Loan Forgiveness (PSLF)Forgives remaining federal loan balance after 120 qualifying monthly payments while working full-time for a qualifying public service employer. Relevant to bankruptcy because courts consider whether PSLF could resolve the debt without discharge. However, PSLF requires 10 years of qualifying employment - which may be impossible for disabled or elderly borrowers, supporting the undue hardship argument.
 
 Tax BombWhen student loan debt is forgiven after the IDR repayment period (20-25 years), the forgiven amount may be treated as taxable income by the IRS. For a debtor with $200,000 in forgiven loans, the resulting tax bill could be $40,000-$60,000 or more. This risk is relevant to the undue hardship analysis because "forgiveness" through IDR is not truly free. Note: the American Rescue Plan Act temporarily excluded forgiven student loans from taxable income through 2025.
 
@@ -1536,7 +1402,7 @@ Brunner v. NYSHE Services Corp. (1987)831 F.2d 395 (2d Cir. 1987). The case that
 
 Long v. Educational Credit Management Corp. (2003)322 F.3d 549 (8th Cir. 2003). The 8th Circuit rejected the Brunner test in favor of a totality of circumstances approach. Held that the "certainty of hopelessness" standard is too rigid and does not reflect the plain meaning of "undue hardship." This decision made the 8th Circuit (AR, IA, MN, MO, NE, ND, SD) the most favorable jurisdiction for student loan discharge cases.
 
-Rosenberg v. New York University (1987)805 F.2d 417 (2d Cir. 1986). An earlier case sometimes cited alongside Brunner. Established that student loan discharge requires more than the ordinary hardship that accompanies bankruptcy -- hence "undue" hardship rather than just hardship.
+Rosenberg v. New York University (1987)805 F.2d 417 (2d Cir. 1986). An earlier case sometimes cited alongside Brunner. Established that student loan discharge requires more than the ordinary hardship that accompanies bankruptcy - hence "undue" hardship rather than just hardship.
 
 Frequently Asked Questions
 
@@ -1601,113 +1467,324 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Brunner Test 3 Prongs -- Student Loan Discharge Calculator [2026] -- Brunnertest
-Source: https://brunnertest.org/brunner-test-3-prongs.html
-
-← brunnertest.org
-
-Brunner Test 3 Prongs -- Student Loan Discharge Analysis
-
-The Brunner test is the dominant standard courts use to determine whether student loans can be discharged in bankruptcy for "undue hardship" under 11 U.S.C. Section 523(a)(8)
+## The Three Prongs of the Brunner Test - Explained in Detail - Brunnertest
+Source: https://brunnertest.org/three-prong-test.html
 
 The Three Prongs of the Brunner Test
 
-Established in Brunner v. New York State Higher Education Services Corp., 831 F.2d 395 (2d Cir. 1987), the test requires the debtor to prove all three prongs by a preponderance of the evidence:
+Explained in Detail
 
-1 Poverty Prong (Current Inability to Pay)
+Home » The Three Prongs of the Brunner Test
 
-Based on current income and expenses, the debtor cannot maintain a minimal standard of living for themselves and dependents if forced to repay the student loans.
+Prong 1: Current Inability to Pay
 
-What courts look at:
+Can you maintain a minimal standard of living while repaying? Courts examine current income, necessary expenses, and dependents. You do not need to be destitute - just show that repayment would force you below a minimal standard.
 
-Monthly income vs. monthly expenses (basic necessities only)
+Prong 2: Persistence of Circumstances
 
-Household size and dependent needs
+Will your situation persist for a significant portion of the repayment period? Courts look at age, health, education, job skills, employment history, and any circumstances unlikely to change.
 
-Whether expenses are reasonable and necessary
+Prong 3: Good Faith Effort to Repay
 
-Income relative to the federal poverty guidelines
+Have you made a good faith effort? Courts consider payments made, income-driven repayment enrollment, employment efforts, and income maximization. Enrolling in IDR at $0 counts as good faith.
 
-Tips: Courts expect a bare-bones budget. Luxury expenses hurt your case. Include all necessary medical costs, childcare, and basic transportation.
+Frequently Asked Questions
 
-2 Persistence Prong (Additional Circumstances)
+Do I have to meet all three prongs?
 
-Additional circumstances exist indicating that this state of affairs is likely to persist for a significant portion of the repayment period.
+In Brunner circuits, yes. But the 2022 DOJ guidance instructs a more holistic view. Some circuits use the totality of circumstances test instead.
 
-Factors courts consider strong:
+What evidence do I need?
 
-Physical or mental disability
+Prong 1: pay stubs, tax returns, budget. Prong 2: medical records, employment records, job search logs. Prong 3: loan payment history, IDR enrollment, employment history.
 
-Advanced age with limited earning potential
+Has the Brunner test been overturned?
 
-Lack of marketable job skills or education beyond the degree
+Not yet, but it is under significant pressure. The 2022 DOJ guidance effectively softened it. Several courts have adopted alternative tests. Legislative efforts continue.
 
-Chronic medical conditions requiring ongoing treatment
+Check your bankruptcy discharge eligibility with our free screening tool.
+Free Discharge Screener
 
-Caregiving obligations for disabled family members
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code) and the Fair Debt Collection Practices Act. This is educational content, not legal advice.
 
-History of prolonged unemployment despite efforts
+Related Guides
 
-This is usually the hardest prong. You must show your situation is not temporary. A short-term job loss alone typically does not satisfy this prong.
+Credit Card Debt in Bankruptcy
 
-3 Good Faith Prong (Effort to Repay)
+EIDL Loans in Bankruptcy
 
-The debtor has made good faith efforts to repay the loans.
+Medical Bills in Bankruptcy
 
-What helps:
+SBA Loans in Bankruptcy
 
-History of payments before financial collapse
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
-Enrollment in income-driven repayment (IDR) plans
+♥ Sponsor
 
-Communication with loan servicers about hardship
+Further Reading & Resources
 
-Attempts to find employment or increase income
+Authority sources for deeper research on student loans and bankruptcy:
 
-Minimizing expenses to direct funds toward repayment
+11 U.S.C. Section 523(a)(8)
+Cornell LII - student loan exception
 
-What hurts:
+Federal Student Aid
+Dept. of Education
 
-Never making a single payment when able
+DOJ Student Loan Guidance
+2022 guidance on undue hardship
 
-Ignoring correspondence from servicers
+CFPB Student Loan Resources
+CFPB tools
 
-Filing bankruptcy immediately after graduation with no effort
+Find Free Legal Aid
+LSC legal aid finder
 
-Refusing to explore repayment options
+NCLC Student Loans
+National Consumer Law Center
 
-Brunner Test Self-Assessment
+Brunner Test Research
+Google Scholar
 
-While there is no official "Brunner test calculator," you can evaluate your situation against each prong:
+Related Guides
 
-ProngStrong CaseWeak Case
+Student Loans in Bankruptcy
 
-1. PovertyIncome below poverty line, bare-bones budget, no disposable incomeAbove-median income, discretionary spending evident
+Can student loans be discharged?
 
-2. PersistencePermanent disability, age 55+, chronic illness, no advanced skillsTemporary setback, young with marketable degree
+bankruptcystudentloans.org →
 
-3. Good FaithYears of payments, IDR enrollment, active job searchZero payments ever made, no contact with servicer
+Bankruptcy Hardship Discharge
 
-The 2022 DOJ Guidance -- A Game Changer
+Hardship discharge in Chapter 13
 
-In November 2022, the Department of Justice issued guidance directing U.S. Attorneys to apply a new "attestation-based" process for evaluating undue hardship claims. This has significantly increased the number of student loan discharges. Key changes:
+bankruptcyhardship.org →
 
-DOJ now evaluates cases based on objective factors rather than reflexively contesting every filing
+Disability and Debt
 
-Borrowers who meet certain criteria may receive a DOJ recommendation for discharge
+Free bankruptcy information guide
 
-The process has reduced the cost and length of adversary proceedings
+disabilityanddebt.org →
 
-For details, see our DOJ guidance analysis.
+Student Loan Default
 
-Circuits That Use the Brunner Test
+Free bankruptcy information guide
 
-The Brunner test is used by the majority of federal circuits. The notable exception is the Eighth Circuit, which uses the "totality of circumstances" test -- a somewhat more flexible standard. See our totality of circumstances comparison.
+studentloandefault.org →
 
-Related Resources
+You May Also Find Helpful
 
-Brunner Test Overview | Three-Prong Deep Dive | Adversary Proceeding Guide | Partial Discharge | Student Loan Bankruptcy Guide
+Student Loan Forgiveness Programs -- studentloanforgive.org
 
-Part of the Open Bankruptcy Project -- free, open-source bankruptcy information.
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
-Not legal advice. Consult a licensed attorney for your specific situation.
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener Open Bankruptcy Project Ch.7 vs Ch.13 Automatic Stay Bankruptcy Cost Means Test Deficiency Balance Brunner Test Debt Buyer Rights Vacate Judgment
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms
+♥ Sponsor
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## Totality of Circumstances Test - The Brunner Alternative - Brunnertest
+Source: https://brunnertest.org/totality-of-circumstances.html
+
+Totality of Circumstances Test
+
+The Brunner Alternative
+
+Home » Totality of Circumstances Test
+
+What Is the Totality Test?
+
+Established in In re Long (322 F.3d 549, 8th Cir. 2003), it considers all relevant factors holistically: income, expenses, health, age, education, dependents, other debts. No single factor is dispositive.
+
+Which Courts Use It?
+
+The Eighth Circuit (AR, IA, MN, MO, NE, ND, SD) officially uses it. The First Circuit has a similar approach. Some other courts apply it in practice while nominally using Brunner.
+
+Advantages Over Brunner
+
+More favorable for borrowers: no rigid prong-by-prong analysis, considers unique circumstances, aligns with DOJ guidance, and focuses on the overall picture.
+
+Frequently Asked Questions
+
+Can I choose which test applies?
+
+No. The test depends on your federal circuit. You cannot forum-shop by filing in a different circuit.
+
+Does the DOJ guidance override Brunner?
+
+Not legally, but practically it has significant effect. Government attorneys evaluate more holistically and consent to discharge more frequently.
+
+Is the totality test easier to pass?
+
+Generally yes. Studies show higher discharge rates in totality-test circuits. But it still requires genuine hardship - it is not automatic.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code) and the Fair Debt Collection Practices Act. This is educational content, not legal advice.
+
+Related Guides
+
+Credit Card Debt in Bankruptcy
+
+EIDL Loans in Bankruptcy
+
+Medical Bills in Bankruptcy
+
+SBA Loans in Bankruptcy
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on student loans and bankruptcy:
+
+11 U.S.C. Section 523(a)(8)
+Cornell LII - student loan exception
+
+Federal Student Aid
+Dept. of Education
+
+DOJ Student Loan Guidance
+2022 guidance on undue hardship
+
+CFPB Student Loan Resources
+CFPB tools
+
+Find Free Legal Aid
+LSC legal aid finder
+
+NCLC Student Loans
+National Consumer Law Center
+
+Brunner Test Research
+Google Scholar
+
+Related Guides
+
+Student Loans in Bankruptcy
+
+Can student loans be discharged?
+
+bankruptcystudentloans.org →
+
+Bankruptcy Hardship Discharge
+
+Hardship discharge in Chapter 13
+
+bankruptcyhardship.org →
+
+Disability and Debt
+
+Free bankruptcy information guide
+
+disabilityanddebt.org →
+
+Student Loan Default
+
+Free bankruptcy information guide
+
+studentloandefault.org →
+
+You May Also Find Helpful
+
+Student Loan Forgiveness Programs -- studentloanforgive.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener Open Bankruptcy Project Ch.7 vs Ch.13 Automatic Stay Bankruptcy Cost Means Test Deficiency Balance Brunner Test Debt Buyer Rights Vacate Judgment
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms
+♥ Sponsor
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## Privacy Policy - brunnertest.org
+Source: https://brunnertest.org/privacy.html
+
+brunnertest.org
+
+Home
+Privacy
+
+Privacy Policy
+
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
+
+Data We Collect
+
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
+
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
+
+What We Don't Do
+
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
+
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
+
+Cookies
+
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
+
+Third-Party Services
+
+Google Analytics (GA4) - aggregate traffic measurement
+
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
+
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
+
+GitHub Pages - hosting
+
+Contact Forms & Email
+
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
+
+Children's Privacy
+
+This site is not directed at children under 13. We do not knowingly collect information from children.
+
+Data Retention
+
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
+
+Your Rights
+
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
+
+Network Policy
+
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+
+Changes
+
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
+
+Effective: March 30, 2026  |  Updated: April 11, 2026
+
+Home  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.

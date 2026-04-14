@@ -1,22 +1,23 @@
-# Brunner Test -- 3 Prongs for Student Loan Discharge [2026] -- Brunnertest
+# Brunner Test - 3 Prongs for Student Loan Discharge [2026] - Brunnertest
 > The Brunner test determines if student loans are dischargeable in bankruptcy. Learn the 3-prong analysis, recent cases, and how to pass. 202...
 
 ## About
 brunnertest.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Adversary Proceeding Process -- How to File for Discharge -- Brunnertest: https://brunnertest.org/adversary-proceeding.html
-- Alternatives to the Brunner Test -- Other Paths to Relief -- Brunnertest: https://brunnertest.org/brunner-alternatives.html
-- DOJ 2022 Guidance -- What Changed for Student Loan Discharge -- Brunnertest: https://brunnertest.org/doj-guidance-2023.html
-- Good Faith Requirement -- What Courts Really Look For -- Brunnertest: https://brunnertest.org/good-faith-requirement.html
-- Brunner Test -- 3 Prongs for Student Loan Discharge [2026] -- Brunnertest: https://brunnertest.org/
-- Partial Student Loan Discharge -- Reducing What You Owe -- Brunnertest: https://brunnertest.org/partial-discharge.html
-- Persistent Effort -- Building Your Case Over Time -- Brunnertest: https://brunnertest.org/persistent-effort.html
-- Recent Student Loan Discharge Cases -- What Courts Are Deciding -- Brunnertest: https://brunnertest.org/recent-case-outcomes.html
-- The Three Prongs of the Brunner Test -- Explained in Detail -- Brunnertest: https://brunnertest.org/three-prong-test.html
-- Totality of Circumstances Test -- The Brunner Alternative -- Brunnertest: https://brunnertest.org/totality-of-circumstances.html
-- Student Loan Bankruptcy Terms You Need to Know -- 25+ Definitions -- Brunnertest: https://brunnertest.org/student-loan-terms.html
-- Brunner Test 3 Prongs -- Student Loan Discharge Calculator [2026] -- Brunnertest: https://brunnertest.org/brunner-test-3-prongs.html
+- Adversary Proceeding Process - How to File for Discharge - Brunnertest: https://brunnertest.org/adversary-proceeding.html
+- Alternatives to the Brunner Test - Other Paths to Relief - Brunnertest: https://brunnertest.org/brunner-alternatives.html
+- Brunner Test 3 Prongs - Student Loan Discharge Calculator [2026] - Brunnertest: https://brunnertest.org/brunner-test-3-prongs.html
+- DOJ 2022 Guidance - What Changed for Student Loan Discharge - Brunnertest: https://brunnertest.org/doj-guidance-2023.html
+- Good Faith Requirement - What Courts Really Look For - Brunnertest: https://brunnertest.org/good-faith-requirement.html
+- Brunner Test - 3 Prongs for Student Loan Discharge [2026] - Brunnertest: https://brunnertest.org/
+- Partial Student Loan Discharge - Reducing What You Owe - Brunnertest: https://brunnertest.org/partial-discharge.html
+- Persistent Effort - Building Your Case Over Time - Brunnertest: https://brunnertest.org/persistent-effort.html
+- Recent Student Loan Discharge Cases - What Courts Are Deciding - Brunnertest: https://brunnertest.org/recent-case-outcomes.html
+- Student Loan Bankruptcy Terms You Need to Know - 25+ Definitions - Brunnertest: https://brunnertest.org/student-loan-terms.html
+- The Three Prongs of the Brunner Test - Explained in Detail - Brunnertest: https://brunnertest.org/three-prong-test.html
+- Totality of Circumstances Test - The Brunner Alternative - Brunnertest: https://brunnertest.org/totality-of-circumstances.html
+- Privacy Policy: https://brunnertest.org/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
