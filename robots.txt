@@ -2,4 +2,5 @@ User-agent: *
 Allow: /
 
 
-Sitemap: https://brunnertest.org/sitemap.xml
+
+Sitemap: https://brunnertest.org/sitemapindex.xml
