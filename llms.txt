@@ -1,25 +1,78 @@
-# Brunner Test - 3 Prongs for Student Loan Discharge [2026] - Brunnertest
-> Last updated: 2026-05-01
+# Brunner Test - 3 Prongs for Student Loan Discharge [2026]
+> Last updated: 2026-09-25
 
-> The Brunner test determines if student loans are dischargeable in bankruptcy. Learn the 3-prong analysis, recent cases, and how to pass. 202...
+> The Brunner test (brunner test student loans, brunner test bankruptcy) determines if student loans are dischargeable in bankruptcy under 11 USC 523(a)(8).
 
 ## About
 brunnertest.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Adversary Proceeding Process - How to File for Discharge - Brunnertest: https://brunnertest.org/adversary-proceeding.html
-- Alternatives to the Brunner Test - Other Paths to Relief - Brunnertest: https://brunnertest.org/brunner-alternatives.html
-- Brunner Test 3 Prongs - Student Loan Discharge Calculator [2026] - Brunnertest: https://brunnertest.org/brunner-test-3-prongs.html
-- DOJ 2022 Guidance - What Changed for Student Loan Discharge - Brunnertest: https://brunnertest.org/doj-guidance-2023.html
-- Good Faith Requirement - What Courts Really Look For - Brunnertest: https://brunnertest.org/good-faith-requirement.html
-- Brunner Test - 3 Prongs for Student Loan Discharge [2026] - Brunnertest: https://brunnertest.org/
-- Partial Student Loan Discharge - Reducing What You Owe - Brunnertest: https://brunnertest.org/partial-discharge.html
-- Persistent Effort - Building Your Case Over Time - Brunnertest: https://brunnertest.org/persistent-effort.html
-- Recent Student Loan Discharge Cases - What Courts Are Deciding - Brunnertest: https://brunnertest.org/recent-case-outcomes.html
-- Student Loan Bankruptcy Terms You Need to Know - 25+ Definitions - Brunnertest: https://brunnertest.org/student-loan-terms.html
-- The Three Prongs of the Brunner Test - Explained in Detail - Brunnertest: https://brunnertest.org/three-prong-test.html
-- Totality of Circumstances Test - The Brunner Alternative - Brunnertest: https://brunnertest.org/totality-of-circumstances.html
+- Student Loan Adversary Proceeding [2026]: Rule 7001 Complaint Procedure for 11 USC 523(a)(8) Discharge: https://brunnertest.org/adversary-proceeding.html
+- Brunner Test Alternatives [2026]: Totality of Circumstances Test, DOJ 2022 Guidance, IDR Workarounds: https://brunnertest.org/brunner-alternatives.html
+- Brunner Test 3 Prongs - Student Loan Discharge Calculator: https://brunnertest.org/brunner-test-3-prongs.html
+- DOJ 2022 Student Loan Discharge Guidance [2026]: Attestation Form, IDR Tables, Joint Recommendation: https://brunnertest.org/doj-guidance-2023.html
+- Brunner Good Faith Requirement [2026]: How Courts Evaluate 11 USC 523(a)(8) Repayment Efforts: https://brunnertest.org/good-faith-requirement.html
+- Brunner Test - 3 Prongs for Student Loan Discharge: https://brunnertest.org/
+- Partial Student Loan Discharge [2026]: 11 USC 105(a) Court Authority to Discharge a Portion: https://brunnertest.org/partial-discharge.html
+- Brunner Persistent Effort [2026]: Documenting Long-Term Repayment Hardship for 523(a)(8) Discharge: https://brunnertest.org/persistent-effort.html
+- Recent Student Loan Discharge Cases [2026]: Post-2022 DOJ Guidance Wins, Settlements, and Trends: https://brunnertest.org/recent-case-outcomes.html
+- Student Loan Bankruptcy Terms You Need to Know - 25+ Definitions: https://brunnertest.org/student-loan-terms.html
+- Brunner Three-Prong Test [2026]: Minimal Standard, Persistence, Good Faith Under 11 USC 523(a)(8): https://brunnertest.org/three-prong-test.html
+- Totality of Circumstances Test [2026]: Eighth Circuit Long Standard for 11 USC 523(a)(8) Discharge: https://brunnertest.org/totality-of-circumstances.html
 - Privacy Policy: https://brunnertest.org/privacy.html
+- About brunnertest.org: https://brunnertest.org/about.html
+- Brunner Test in Alabama [2026]: Eleventh Circuit Undue Hardship Application: https://brunnertest.org/states/alabama.html
+- Brunner Test in Alaska [2026]: Ninth Circuit Undue Hardship Application: https://brunnertest.org/states/alaska.html
+- Brunner Test in Arizona [2026]: Ninth Circuit Undue Hardship Application: https://brunnertest.org/states/arizona.html
+- Brunner Test in Arkansas [2026]: Eighth Circuit Undue Hardship Application: https://brunnertest.org/states/arkansas.html
+- Brunner Test in California [2026]: Ninth Circuit Undue Hardship Application: https://brunnertest.org/states/california.html
+- Brunner Test in Colorado [2026]: Tenth Circuit Undue Hardship Application: https://brunnertest.org/states/colorado.html
+- Brunner Test in Connecticut [2026]: Second Circuit Undue Hardship Application: https://brunnertest.org/states/connecticut.html
+- Brunner Test in Delaware [2026]: Third Circuit Undue Hardship Application: https://brunnertest.org/states/delaware.html
+- Brunner Test in District of Columbia [2026]: D.C. Circuit Undue Hardship Application: https://brunnertest.org/states/district-of-columbia.html
+- Brunner Test in Florida [2026]: Eleventh Circuit Undue Hardship Application: https://brunnertest.org/states/florida.html
+- Brunner Test in Georgia [2026]: Eleventh Circuit Undue Hardship Application: https://brunnertest.org/states/georgia.html
+- Brunner Test in Hawaii [2026]: Ninth Circuit Undue Hardship Application: https://brunnertest.org/states/hawaii.html
+- Brunner Test in Idaho [2026]: Ninth Circuit Undue Hardship Application: https://brunnertest.org/states/idaho.html
+- Brunner Test in Illinois [2026]: Seventh Circuit Undue Hardship Application: https://brunnertest.org/states/illinois.html
+- Brunner Test by State by State: https://brunnertest.org/states/
+- Brunner Test in Indiana [2026]: Seventh Circuit Undue Hardship Application: https://brunnertest.org/states/indiana.html
+- Brunner Test in Iowa [2026]: Eighth Circuit Undue Hardship Application: https://brunnertest.org/states/iowa.html
+- Brunner Test in Kansas [2026]: Tenth Circuit Undue Hardship Application: https://brunnertest.org/states/kansas.html
+- Brunner Test in Kentucky [2026]: Sixth Circuit Undue Hardship Application: https://brunnertest.org/states/kentucky.html
+- Brunner Test in Louisiana [2026]: Fifth Circuit Undue Hardship Application: https://brunnertest.org/states/louisiana.html
+- Brunner Test in Maine [2026]: First Circuit Undue Hardship Application: https://brunnertest.org/states/maine.html
+- Brunner Test in Maryland [2026]: Fourth Circuit Undue Hardship Application: https://brunnertest.org/states/maryland.html
+- Brunner Test in Massachusetts [2026]: First Circuit Undue Hardship Application: https://brunnertest.org/states/massachusetts.html
+- Brunner Test in Michigan [2026]: Sixth Circuit Undue Hardship Application: https://brunnertest.org/states/michigan.html
+- Brunner Test in Minnesota [2026]: Eighth Circuit Undue Hardship Application: https://brunnertest.org/states/minnesota.html
+- Brunner Test in Mississippi [2026]: Fifth Circuit Undue Hardship Application: https://brunnertest.org/states/mississippi.html
+- Brunner Test in Missouri [2026]: Eighth Circuit Undue Hardship Application: https://brunnertest.org/states/missouri.html
+- Brunner Test in Montana [2026]: Ninth Circuit Undue Hardship Application: https://brunnertest.org/states/montana.html
+- Brunner Test in Nebraska [2026]: Eighth Circuit Undue Hardship Application: https://brunnertest.org/states/nebraska.html
+- Brunner Test in Nevada [2026]: Ninth Circuit Undue Hardship Application: https://brunnertest.org/states/nevada.html
+- Brunner Test in New Hampshire [2026]: First Circuit Undue Hardship Application: https://brunnertest.org/states/new-hampshire.html
+- Brunner Test in New Jersey [2026]: Third Circuit Undue Hardship Application: https://brunnertest.org/states/new-jersey.html
+- Brunner Test in New Mexico [2026]: Tenth Circuit Undue Hardship Application: https://brunnertest.org/states/new-mexico.html
+- Brunner Test in New York [2026]: Second Circuit Undue Hardship Application: https://brunnertest.org/states/new-york.html
+- Brunner Test in North Carolina [2026]: Fourth Circuit Undue Hardship Application: https://brunnertest.org/states/north-carolina.html
+- Brunner Test in North Dakota [2026]: Eighth Circuit Undue Hardship Application: https://brunnertest.org/states/north-dakota.html
+- Brunner Test in Ohio [2026]: Sixth Circuit Undue Hardship Application: https://brunnertest.org/states/ohio.html
+- Brunner Test in Oklahoma [2026]: Tenth Circuit Undue Hardship Application: https://brunnertest.org/states/oklahoma.html
+- Brunner Test in Oregon [2026]: Ninth Circuit Undue Hardship Application: https://brunnertest.org/states/oregon.html
+- Brunner Test in Pennsylvania [2026]: Third Circuit Undue Hardship Application: https://brunnertest.org/states/pennsylvania.html
+- Brunner Test in Rhode Island [2026]: First Circuit Undue Hardship Application: https://brunnertest.org/states/rhode-island.html
+- Brunner Test in South Carolina [2026]: Fourth Circuit Undue Hardship Application: https://brunnertest.org/states/south-carolina.html
+- Brunner Test in South Dakota [2026]: Eighth Circuit Undue Hardship Application: https://brunnertest.org/states/south-dakota.html
+- Brunner Test in Tennessee [2026]: Sixth Circuit Undue Hardship Application: https://brunnertest.org/states/tennessee.html
+- Brunner Test in Texas [2026]: Fifth Circuit Undue Hardship Application: https://brunnertest.org/states/texas.html
+- Brunner Test in Utah [2026]: Tenth Circuit Undue Hardship Application: https://brunnertest.org/states/utah.html
+- Brunner Test in Vermont [2026]: Second Circuit Undue Hardship Application: https://brunnertest.org/states/vermont.html
+- Brunner Test in Virginia [2026]: Fourth Circuit Undue Hardship Application: https://brunnertest.org/states/virginia.html
+- Brunner Test in Washington [2026]: Ninth Circuit Undue Hardship Application: https://brunnertest.org/states/washington.html
+- Brunner Test in West Virginia [2026]: Fourth Circuit Undue Hardship Application: https://brunnertest.org/states/west-virginia.html
+- Brunner Test in Wisconsin [2026]: Seventh Circuit Undue Hardship Application: https://brunnertest.org/states/wisconsin.html
+- Brunner Test in Wyoming [2026]: Tenth Circuit Undue Hardship Application: https://brunnertest.org/states/wyoming.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
