@@ -1,6 +1,6 @@
 # brunnertest.org -- Full Content
 
-> Last updated: 2026-09-25
+> Last updated: 2026-10-28
 
 This file contains the full text content of all pages on brunnertest.org.
 Part of the Open Bankruptcy Project (openbankruptcyproject.org).
@@ -174,7 +174,7 @@ Home » Alternatives to the Brunner Test
 
 Income-Driven Repayment Plans
 
-IDR plans cap payments at 5-20% of discretionary income. The SAVE plan caps at 5% for undergraduate loans. After 20-25 years, the balance is forgiven. Not immediate but manageable.
+IDR plans base payments on income. SAVE was ended by court order on March 10, 2026. After 20 to 30 years, depending on the plan, the balance is forgiven. Not immediate but manageable.
 
 Public Service Loan Forgiveness
 
@@ -1658,13 +1658,13 @@ FFEL Loans (Federal Family Education Loan)Older federal student loans originated
 
 Private Student LoansLoans from banks, credit unions, or private lenders (e.g., Sallie Mae, SoFi, Earnest). Subject to 523(a)(8) if they meet the statute's definition of a "qualified education loan." Loans from non-accredited institutions, loans exceeding cost of attendance, or loans not used for qualified education expenses may fall outside 523(a)(8) and could be dischargeable without proving undue hardship.
 
-Income-Driven Repayment (IDR)Federal repayment plans that cap monthly payments at a percentage of your discretionary income. Plans include SAVE (formerly REPAYE), PAYE, IBR, and ICR. Relevant to bankruptcy because enrollment in IDR demonstrates good faith effort (Brunner prong 3). Some courts ask why the debtor needs a discharge when IDR payments may be $0/month - but courts increasingly recognize that 20-25 years of IDR with a tax bomb on forgiven debt can itself constitute hardship.
+Income-Driven Repayment (IDR)Federal repayment plans that cap monthly payments at a percentage of your discretionary income. Plans include the Repayment Assistance Plan, IBR, PAYE, and ICR; SAVE (formerly REPAYE) ended in March 2026. Relevant to bankruptcy because enrollment in IDR demonstrates good faith effort (Brunner prong 3). Some courts ask why the debtor needs a discharge when IDR payments may be $0/month - but courts increasingly recognize that 20-25 years of IDR with a tax bomb on forgiven debt can itself constitute hardship.
 
-SAVE Plan (formerly REPAYE)The Saving on a Valuable Education plan. Caps payments at 5% of discretionary income for undergraduate loans (10% for graduate). Forgiveness after 20 years (undergrad) or 25 years (graduate). The Biden administration introduced SAVE in 2023 to replace REPAYE, but the plan has faced legal challenges. Status may depend on current litigation.
+SAVE Plan (formerly REPAYE)The Saving on a Valuable Education plan, introduced in 2023 to replace REPAYE. A court order ended it on March 10, 2026, and SAVE borrowers are being moved to other plans. Past enrollment in SAVE can still show good-faith repayment effort.
 
 Public Service Loan Forgiveness (PSLF)Forgives remaining federal loan balance after 120 qualifying monthly payments while working full-time for a qualifying public service employer. Relevant to bankruptcy because courts consider whether PSLF could resolve the debt without discharge. However, PSLF requires 10 years of qualifying employment - which may be impossible for disabled or elderly borrowers, supporting the undue hardship argument.
 
-Tax BombWhen student loan debt is forgiven after the IDR repayment period (20-25 years), the forgiven amount may be treated as taxable income by the IRS. For a debtor with $200,000 in forgiven loans, the resulting tax bill could be $40,000-$60,000 or more. This risk is relevant to the undue hardship analysis because "forgiveness" through IDR is not truly free. Note: the American Rescue Plan Act temporarily excluded forgiven student loans from taxable income through 2025.
+Tax BombWhen student loan debt is forgiven after the IDR repayment period (20-25 years), the forgiven amount may be treated as taxable income by the IRS. For a debtor with $200,000 in forgiven loans, the resulting tax bill could be $40,000-$60,000 or more. This risk is relevant to the undue hardship analysis because "forgiveness" through IDR is not truly free. Note: the American Rescue Plan Act excluded forgiven student loans from taxable income through December 31, 2025; that exclusion was not extended.
 
 Key Case Law
 
@@ -2255,7 +2255,7 @@ Income-Driven Repayment and the Good-Faith Prong
 
 For Alabama debtors in a Brunner-applying circuit (i.e., not the 8th), the good-faith prong is usually the hardest to meet. Courts expect evidence of:
 
-Enrollment in (or attempted enrollment in) an income-driven repayment plan (SAVE/REPAYE, PAYE, IBR, or ICR).
+Enrollment in (or attempted enrollment in) an income-driven repayment plan (today, IBR or the Repayment Assistance Plan; older records may show SAVE/REPAYE, PAYE, or ICR).
 
 Forbearances and deferments used when appropriate - but not as a substitute for actual repayment.
 
@@ -2263,7 +2263,7 @@ Communication with the loan servicer, including documented payment attempts.
 
 Efforts to maximize income or minimize expenses where realistic.
 
-A Alabama debtor at poverty-line income typically has a $0 monthly payment under SAVE. The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
+A Alabama debtor at poverty-line income typically has a $0 monthly payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
 
 Alabama Federal Bankruptcy Data
 
@@ -2416,7 +2416,7 @@ Income-Driven Repayment and the Good-Faith Prong
 
 For Alaska debtors in a Brunner-applying circuit (i.e., not the 8th), the good-faith prong is usually the hardest to meet. Courts expect evidence of:
 
-Enrollment in (or attempted enrollment in) an income-driven repayment plan (SAVE/REPAYE, PAYE, IBR, or ICR).
+Enrollment in (or attempted enrollment in) an income-driven repayment plan (today, IBR or the Repayment Assistance Plan; older records may show SAVE/REPAYE, PAYE, or ICR).
 
 Forbearances and deferments used when appropriate - but not as a substitute for actual repayment.
 
@@ -2424,7 +2424,7 @@ Communication with the loan servicer, including documented payment attempts.
 
 Efforts to maximize income or minimize expenses where realistic.
 
-A Alaska debtor at poverty-line income typically has a $0 monthly payment under SAVE. The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
+A Alaska debtor at poverty-line income typically has a $0 monthly payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
 
 Partial Discharge in Alaska
 
@@ -2563,7 +2563,7 @@ Income-Driven Repayment and the Good-Faith Prong
 
 For Arizona debtors in a Brunner-applying circuit (i.e., not the 8th), the good-faith prong is usually the hardest to meet. Courts expect evidence of:
 
-Enrollment in (or attempted enrollment in) an income-driven repayment plan (SAVE/REPAYE, PAYE, IBR, or ICR).
+Enrollment in (or attempted enrollment in) an income-driven repayment plan (today, IBR or the Repayment Assistance Plan; older records may show SAVE/REPAYE, PAYE, or ICR).
 
 Forbearances and deferments used when appropriate - but not as a substitute for actual repayment.
 
@@ -2571,7 +2571,7 @@ Communication with the loan servicer, including documented payment attempts.
 
 Efforts to maximize income or minimize expenses where realistic.
 
-A Arizona debtor at poverty-line income typically has a $0 monthly payment under SAVE. The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
+A Arizona debtor at poverty-line income typically has a $0 monthly payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
 
 Partial Discharge in Arizona
 
@@ -2702,7 +2702,7 @@ Income-Driven Repayment and the Good-Faith Prong
 
 For Arkansas debtors in a Brunner-applying circuit (i.e., not the 8th), the good-faith prong is usually the hardest to meet. Courts expect evidence of:
 
-Enrollment in (or attempted enrollment in) an income-driven repayment plan (SAVE/REPAYE, PAYE, IBR, or ICR).
+Enrollment in (or attempted enrollment in) an income-driven repayment plan (today, IBR or the Repayment Assistance Plan; older records may show SAVE/REPAYE, PAYE, or ICR).
 
 Forbearances and deferments used when appropriate - but not as a substitute for actual repayment.
 
@@ -2710,7 +2710,7 @@ Communication with the loan servicer, including documented payment attempts.
 
 Efforts to maximize income or minimize expenses where realistic.
 
-A Arkansas debtor at poverty-line income typically has a $0 monthly payment under SAVE. The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
+A Arkansas debtor at poverty-line income typically has a $0 monthly payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
 
 Arkansas Federal Bankruptcy Data
 
@@ -2863,7 +2863,7 @@ Income-Driven Repayment and the Good-Faith Prong
 
 For California debtors in a Brunner-applying circuit (i.e., not the 8th), the good-faith prong is usually the hardest to meet. Courts expect evidence of:
 
-Enrollment in (or attempted enrollment in) an income-driven repayment plan (SAVE/REPAYE, PAYE, IBR, or ICR).
+Enrollment in (or attempted enrollment in) an income-driven repayment plan (today, IBR or the Repayment Assistance Plan; older records may show SAVE/REPAYE, PAYE, or ICR).
 
 Forbearances and deferments used when appropriate - but not as a substitute for actual repayment.
 
@@ -2871,7 +2871,7 @@ Communication with the loan servicer, including documented payment attempts.
 
 Efforts to maximize income or minimize expenses where realistic.
 
-A California debtor at poverty-line income typically has a $0 monthly payment under SAVE. The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
+A California debtor at poverty-line income typically has a $0 monthly payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
 
 California Federal Bankruptcy Data
 
@@ -3024,7 +3024,7 @@ Income-Driven Repayment and the Good-Faith Prong
 
 For Colorado debtors in a Brunner-applying circuit (i.e., not the 8th), the good-faith prong is usually the hardest to meet. Courts expect evidence of:
 
-Enrollment in (or attempted enrollment in) an income-driven repayment plan (SAVE/REPAYE, PAYE, IBR, or ICR).
+Enrollment in (or attempted enrollment in) an income-driven repayment plan (today, IBR or the Repayment Assistance Plan; older records may show SAVE/REPAYE, PAYE, or ICR).
 
 Forbearances and deferments used when appropriate - but not as a substitute for actual repayment.
 
@@ -3032,7 +3032,7 @@ Communication with the loan servicer, including documented payment attempts.
 
 Efforts to maximize income or minimize expenses where realistic.
 
-A Colorado debtor at poverty-line income typically has a $0 monthly payment under SAVE. The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
+A Colorado debtor at poverty-line income typically has a $0 monthly payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
 
 Colorado Federal Bankruptcy Data
 
@@ -3185,7 +3185,7 @@ Income-Driven Repayment and the Good-Faith Prong
 
 For Connecticut debtors in a Brunner-applying circuit (i.e., not the 8th), the good-faith prong is usually the hardest to meet. Courts expect evidence of:
 
-Enrollment in (or attempted enrollment in) an income-driven repayment plan (SAVE/REPAYE, PAYE, IBR, or ICR).
+Enrollment in (or attempted enrollment in) an income-driven repayment plan (today, IBR or the Repayment Assistance Plan; older records may show SAVE/REPAYE, PAYE, or ICR).
 
 Forbearances and deferments used when appropriate - but not as a substitute for actual repayment.
 
@@ -3193,7 +3193,7 @@ Communication with the loan servicer, including documented payment attempts.
 
 Efforts to maximize income or minimize expenses where realistic.
 
-A Connecticut debtor at poverty-line income typically has a $0 monthly payment under SAVE. The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
+A Connecticut debtor at poverty-line income typically has a $0 monthly payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
 
 Connecticut Federal Bankruptcy Data
 
@@ -3346,7 +3346,7 @@ Income-Driven Repayment and the Good-Faith Prong
 
 For Delaware debtors in a Brunner-applying circuit (i.e., not the 8th), the good-faith prong is usually the hardest to meet. Courts expect evidence of:
 
-Enrollment in (or attempted enrollment in) an income-driven repayment plan (SAVE/REPAYE, PAYE, IBR, or ICR).
+Enrollment in (or attempted enrollment in) an income-driven repayment plan (today, IBR or the Repayment Assistance Plan; older records may show SAVE/REPAYE, PAYE, or ICR).
 
 Forbearances and deferments used when appropriate - but not as a substitute for actual repayment.
 
@@ -3354,7 +3354,7 @@ Communication with the loan servicer, including documented payment attempts.
 
 Efforts to maximize income or minimize expenses where realistic.
 
-A Delaware debtor at poverty-line income typically has a $0 monthly payment under SAVE. The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
+A Delaware debtor at poverty-line income typically has a $0 monthly payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
 
 Partial Discharge in Delaware
 
@@ -3493,7 +3493,7 @@ Income-Driven Repayment and the Good-Faith Prong
 
 For District of Columbia debtors in a Brunner-applying circuit (i.e., not the 8th), the good-faith prong is usually the hardest to meet. Courts expect evidence of:
 
-Enrollment in (or attempted enrollment in) an income-driven repayment plan (SAVE/REPAYE, PAYE, IBR, or ICR).
+Enrollment in (or attempted enrollment in) an income-driven repayment plan (today, IBR or the Repayment Assistance Plan; older records may show SAVE/REPAYE, PAYE, or ICR).
 
 Forbearances and deferments used when appropriate - but not as a substitute for actual repayment.
 
@@ -3501,7 +3501,7 @@ Communication with the loan servicer, including documented payment attempts.
 
 Efforts to maximize income or minimize expenses where realistic.
 
-A District of Columbia debtor at poverty-line income typically has a $0 monthly payment under SAVE. The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
+A District of Columbia debtor at poverty-line income typically has a $0 monthly payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
 
 Partial Discharge in District of Columbia
 
@@ -3640,7 +3640,7 @@ Income-Driven Repayment and the Good-Faith Prong
 
 For Florida debtors in a Brunner-applying circuit (i.e., not the 8th), the good-faith prong is usually the hardest to meet. Courts expect evidence of:
 
-Enrollment in (or attempted enrollment in) an income-driven repayment plan (SAVE/REPAYE, PAYE, IBR, or ICR).
+Enrollment in (or attempted enrollment in) an income-driven repayment plan (today, IBR or the Repayment Assistance Plan; older records may show SAVE/REPAYE, PAYE, or ICR).
 
 Forbearances and deferments used when appropriate - but not as a substitute for actual repayment.
 
@@ -3648,7 +3648,7 @@ Communication with the loan servicer, including documented payment attempts.
 
 Efforts to maximize income or minimize expenses where realistic.
 
-A Florida debtor at poverty-line income typically has a $0 monthly payment under SAVE. The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
+A Florida debtor at poverty-line income typically has a $0 monthly payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
 
 Florida Federal Bankruptcy Data
 
@@ -3801,7 +3801,7 @@ Income-Driven Repayment and the Good-Faith Prong
 
 For Georgia debtors in a Brunner-applying circuit (i.e., not the 8th), the good-faith prong is usually the hardest to meet. Courts expect evidence of:
 
-Enrollment in (or attempted enrollment in) an income-driven repayment plan (SAVE/REPAYE, PAYE, IBR, or ICR).
+Enrollment in (or attempted enrollment in) an income-driven repayment plan (today, IBR or the Repayment Assistance Plan; older records may show SAVE/REPAYE, PAYE, or ICR).
 
 Forbearances and deferments used when appropriate - but not as a substitute for actual repayment.
 
@@ -3809,7 +3809,7 @@ Communication with the loan servicer, including documented payment attempts.
 
 Efforts to maximize income or minimize expenses where realistic.
 
-A Georgia debtor at poverty-line income typically has a $0 monthly payment under SAVE. The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
+A Georgia debtor at poverty-line income typically has a $0 monthly payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
 
 Georgia Federal Bankruptcy Data
 
@@ -3962,7 +3962,7 @@ Income-Driven Repayment and the Good-Faith Prong
 
 For Hawaii debtors in a Brunner-applying circuit (i.e., not the 8th), the good-faith prong is usually the hardest to meet. Courts expect evidence of:
 
-Enrollment in (or attempted enrollment in) an income-driven repayment plan (SAVE/REPAYE, PAYE, IBR, or ICR).
+Enrollment in (or attempted enrollment in) an income-driven repayment plan (today, IBR or the Repayment Assistance Plan; older records may show SAVE/REPAYE, PAYE, or ICR).
 
 Forbearances and deferments used when appropriate - but not as a substitute for actual repayment.
 
@@ -3970,7 +3970,7 @@ Communication with the loan servicer, including documented payment attempts.
 
 Efforts to maximize income or minimize expenses where realistic.
 
-A Hawaii debtor at poverty-line income typically has a $0 monthly payment under SAVE. The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
+A Hawaii debtor at poverty-line income typically has a $0 monthly payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
 
 Partial Discharge in Hawaii
 
@@ -4109,7 +4109,7 @@ Income-Driven Repayment and the Good-Faith Prong
 
 For Idaho debtors in a Brunner-applying circuit (i.e., not the 8th), the good-faith prong is usually the hardest to meet. Courts expect evidence of:
 
-Enrollment in (or attempted enrollment in) an income-driven repayment plan (SAVE/REPAYE, PAYE, IBR, or ICR).
+Enrollment in (or attempted enrollment in) an income-driven repayment plan (today, IBR or the Repayment Assistance Plan; older records may show SAVE/REPAYE, PAYE, or ICR).
 
 Forbearances and deferments used when appropriate - but not as a substitute for actual repayment.
 
@@ -4117,7 +4117,7 @@ Communication with the loan servicer, including documented payment attempts.
 
 Efforts to maximize income or minimize expenses where realistic.
 
-A Idaho debtor at poverty-line income typically has a $0 monthly payment under SAVE. The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
+A Idaho debtor at poverty-line income typically has a $0 monthly payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
 
 Partial Discharge in Idaho
 
@@ -4256,7 +4256,7 @@ Income-Driven Repayment and the Good-Faith Prong
 
 For Illinois debtors in a Brunner-applying circuit (i.e., not the 8th), the good-faith prong is usually the hardest to meet. Courts expect evidence of:
 
-Enrollment in (or attempted enrollment in) an income-driven repayment plan (SAVE/REPAYE, PAYE, IBR, or ICR).
+Enrollment in (or attempted enrollment in) an income-driven repayment plan (today, IBR or the Repayment Assistance Plan; older records may show SAVE/REPAYE, PAYE, or ICR).
 
 Forbearances and deferments used when appropriate - but not as a substitute for actual repayment.
 
@@ -4264,7 +4264,7 @@ Communication with the loan servicer, including documented payment attempts.
 
 Efforts to maximize income or minimize expenses where realistic.
 
-A Illinois debtor at poverty-line income typically has a $0 monthly payment under SAVE. The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
+A Illinois debtor at poverty-line income typically has a $0 monthly payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
 
 Illinois Federal Bankruptcy Data
 
@@ -4448,7 +4448,7 @@ Income-Driven Repayment and the Good-Faith Prong
 
 For Indiana debtors in a Brunner-applying circuit (i.e., not the 8th), the good-faith prong is usually the hardest to meet. Courts expect evidence of:
 
-Enrollment in (or attempted enrollment in) an income-driven repayment plan (SAVE/REPAYE, PAYE, IBR, or ICR).
+Enrollment in (or attempted enrollment in) an income-driven repayment plan (today, IBR or the Repayment Assistance Plan; older records may show SAVE/REPAYE, PAYE, or ICR).
 
 Forbearances and deferments used when appropriate - but not as a substitute for actual repayment.
 
@@ -4456,7 +4456,7 @@ Communication with the loan servicer, including documented payment attempts.
 
 Efforts to maximize income or minimize expenses where realistic.
 
-A Indiana debtor at poverty-line income typically has a $0 monthly payment under SAVE. The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
+A Indiana debtor at poverty-line income typically has a $0 monthly payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
 
 Indiana Federal Bankruptcy Data
 
@@ -4601,7 +4601,7 @@ Income-Driven Repayment and the Good-Faith Prong
 
 For Iowa debtors in a Brunner-applying circuit (i.e., not the 8th), the good-faith prong is usually the hardest to meet. Courts expect evidence of:
 
-Enrollment in (or attempted enrollment in) an income-driven repayment plan (SAVE/REPAYE, PAYE, IBR, or ICR).
+Enrollment in (or attempted enrollment in) an income-driven repayment plan (today, IBR or the Repayment Assistance Plan; older records may show SAVE/REPAYE, PAYE, or ICR).
 
 Forbearances and deferments used when appropriate - but not as a substitute for actual repayment.
 
@@ -4609,7 +4609,7 @@ Communication with the loan servicer, including documented payment attempts.
 
 Efforts to maximize income or minimize expenses where realistic.
 
-A Iowa debtor at poverty-line income typically has a $0 monthly payment under SAVE. The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
+A Iowa debtor at poverty-line income typically has a $0 monthly payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
 
 Partial Discharge in Iowa
 
@@ -4748,7 +4748,7 @@ Income-Driven Repayment and the Good-Faith Prong
 
 For Kansas debtors in a Brunner-applying circuit (i.e., not the 8th), the good-faith prong is usually the hardest to meet. Courts expect evidence of:
 
-Enrollment in (or attempted enrollment in) an income-driven repayment plan (SAVE/REPAYE, PAYE, IBR, or ICR).
+Enrollment in (or attempted enrollment in) an income-driven repayment plan (today, IBR or the Repayment Assistance Plan; older records may show SAVE/REPAYE, PAYE, or ICR).
 
 Forbearances and deferments used when appropriate - but not as a substitute for actual repayment.
 
@@ -4756,7 +4756,7 @@ Communication with the loan servicer, including documented payment attempts.
 
 Efforts to maximize income or minimize expenses where realistic.
 
-A Kansas debtor at poverty-line income typically has a $0 monthly payment under SAVE. The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
+A Kansas debtor at poverty-line income typically has a $0 monthly payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
 
 Kansas Federal Bankruptcy Data
 
@@ -4909,7 +4909,7 @@ Income-Driven Repayment and the Good-Faith Prong
 
 For Kentucky debtors in a Brunner-applying circuit (i.e., not the 8th), the good-faith prong is usually the hardest to meet. Courts expect evidence of:
 
-Enrollment in (or attempted enrollment in) an income-driven repayment plan (SAVE/REPAYE, PAYE, IBR, or ICR).
+Enrollment in (or attempted enrollment in) an income-driven repayment plan (today, IBR or the Repayment Assistance Plan; older records may show SAVE/REPAYE, PAYE, or ICR).
 
 Forbearances and deferments used when appropriate - but not as a substitute for actual repayment.
 
@@ -4917,7 +4917,7 @@ Communication with the loan servicer, including documented payment attempts.
 
 Efforts to maximize income or minimize expenses where realistic.
 
-A Kentucky debtor at poverty-line income typically has a $0 monthly payment under SAVE. The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
+A Kentucky debtor at poverty-line income typically has a $0 monthly payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
 
 Kentucky Federal Bankruptcy Data
 
@@ -5070,7 +5070,7 @@ Income-Driven Repayment and the Good-Faith Prong
 
 For Louisiana debtors in a Brunner-applying circuit (i.e., not the 8th), the good-faith prong is usually the hardest to meet. Courts expect evidence of:
 
-Enrollment in (or attempted enrollment in) an income-driven repayment plan (SAVE/REPAYE, PAYE, IBR, or ICR).
+Enrollment in (or attempted enrollment in) an income-driven repayment plan (today, IBR or the Repayment Assistance Plan; older records may show SAVE/REPAYE, PAYE, or ICR).
 
 Forbearances and deferments used when appropriate - but not as a substitute for actual repayment.
 
@@ -5078,7 +5078,7 @@ Communication with the loan servicer, including documented payment attempts.
 
 Efforts to maximize income or minimize expenses where realistic.
 
-A Louisiana debtor at poverty-line income typically has a $0 monthly payment under SAVE. The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
+A Louisiana debtor at poverty-line income typically has a $0 monthly payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
 
 Partial Discharge in Louisiana
 
@@ -5217,7 +5217,7 @@ Income-Driven Repayment and the Good-Faith Prong
 
 For Maine debtors in a Brunner-applying circuit (i.e., not the 8th), the good-faith prong is usually the hardest to meet. Courts expect evidence of:
 
-Enrollment in (or attempted enrollment in) an income-driven repayment plan (SAVE/REPAYE, PAYE, IBR, or ICR).
+Enrollment in (or attempted enrollment in) an income-driven repayment plan (today, IBR or the Repayment Assistance Plan; older records may show SAVE/REPAYE, PAYE, or ICR).
 
 Forbearances and deferments used when appropriate - but not as a substitute for actual repayment.
 
@@ -5225,7 +5225,7 @@ Communication with the loan servicer, including documented payment attempts.
 
 Efforts to maximize income or minimize expenses where realistic.
 
-A Maine debtor at poverty-line income typically has a $0 monthly payment under SAVE. The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
+A Maine debtor at poverty-line income typically has a $0 monthly payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
 
 Partial Discharge in Maine
 
@@ -5364,7 +5364,7 @@ Income-Driven Repayment and the Good-Faith Prong
 
 For Maryland debtors in a Brunner-applying circuit (i.e., not the 8th), the good-faith prong is usually the hardest to meet. Courts expect evidence of:
 
-Enrollment in (or attempted enrollment in) an income-driven repayment plan (SAVE/REPAYE, PAYE, IBR, or ICR).
+Enrollment in (or attempted enrollment in) an income-driven repayment plan (today, IBR or the Repayment Assistance Plan; older records may show SAVE/REPAYE, PAYE, or ICR).
 
 Forbearances and deferments used when appropriate - but not as a substitute for actual repayment.
 
@@ -5372,7 +5372,7 @@ Communication with the loan servicer, including documented payment attempts.
 
 Efforts to maximize income or minimize expenses where realistic.
 
-A Maryland debtor at poverty-line income typically has a $0 monthly payment under SAVE. The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
+A Maryland debtor at poverty-line income typically has a $0 monthly payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
 
 Maryland Federal Bankruptcy Data
 
@@ -5525,7 +5525,7 @@ Income-Driven Repayment and the Good-Faith Prong
 
 For Massachusetts debtors in a Brunner-applying circuit (i.e., not the 8th), the good-faith prong is usually the hardest to meet. Courts expect evidence of:
 
-Enrollment in (or attempted enrollment in) an income-driven repayment plan (SAVE/REPAYE, PAYE, IBR, or ICR).
+Enrollment in (or attempted enrollment in) an income-driven repayment plan (today, IBR or the Repayment Assistance Plan; older records may show SAVE/REPAYE, PAYE, or ICR).
 
 Forbearances and deferments used when appropriate - but not as a substitute for actual repayment.
 
@@ -5533,7 +5533,7 @@ Communication with the loan servicer, including documented payment attempts.
 
 Efforts to maximize income or minimize expenses where realistic.
 
-A Massachusetts debtor at poverty-line income typically has a $0 monthly payment under SAVE. The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
+A Massachusetts debtor at poverty-line income typically has a $0 monthly payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
 
 Massachusetts Federal Bankruptcy Data
 
@@ -5686,7 +5686,7 @@ Income-Driven Repayment and the Good-Faith Prong
 
 For Michigan debtors in a Brunner-applying circuit (i.e., not the 8th), the good-faith prong is usually the hardest to meet. Courts expect evidence of:
 
-Enrollment in (or attempted enrollment in) an income-driven repayment plan (SAVE/REPAYE, PAYE, IBR, or ICR).
+Enrollment in (or attempted enrollment in) an income-driven repayment plan (today, IBR or the Repayment Assistance Plan; older records may show SAVE/REPAYE, PAYE, or ICR).
 
 Forbearances and deferments used when appropriate - but not as a substitute for actual repayment.
 
@@ -5694,7 +5694,7 @@ Communication with the loan servicer, including documented payment attempts.
 
 Efforts to maximize income or minimize expenses where realistic.
 
-A Michigan debtor at poverty-line income typically has a $0 monthly payment under SAVE. The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
+A Michigan debtor at poverty-line income typically has a $0 monthly payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
 
 Michigan Federal Bankruptcy Data
 
@@ -5839,7 +5839,7 @@ Income-Driven Repayment and the Good-Faith Prong
 
 For Minnesota debtors in a Brunner-applying circuit (i.e., not the 8th), the good-faith prong is usually the hardest to meet. Courts expect evidence of:
 
-Enrollment in (or attempted enrollment in) an income-driven repayment plan (SAVE/REPAYE, PAYE, IBR, or ICR).
+Enrollment in (or attempted enrollment in) an income-driven repayment plan (today, IBR or the Repayment Assistance Plan; older records may show SAVE/REPAYE, PAYE, or ICR).
 
 Forbearances and deferments used when appropriate - but not as a substitute for actual repayment.
 
@@ -5847,7 +5847,7 @@ Communication with the loan servicer, including documented payment attempts.
 
 Efforts to maximize income or minimize expenses where realistic.
 
-A Minnesota debtor at poverty-line income typically has a $0 monthly payment under SAVE. The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
+A Minnesota debtor at poverty-line income typically has a $0 monthly payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
 
 Minnesota Federal Bankruptcy Data
 
@@ -6000,7 +6000,7 @@ Income-Driven Repayment and the Good-Faith Prong
 
 For Mississippi debtors in a Brunner-applying circuit (i.e., not the 8th), the good-faith prong is usually the hardest to meet. Courts expect evidence of:
 
-Enrollment in (or attempted enrollment in) an income-driven repayment plan (SAVE/REPAYE, PAYE, IBR, or ICR).
+Enrollment in (or attempted enrollment in) an income-driven repayment plan (today, IBR or the Repayment Assistance Plan; older records may show SAVE/REPAYE, PAYE, or ICR).
 
 Forbearances and deferments used when appropriate - but not as a substitute for actual repayment.
 
@@ -6008,7 +6008,7 @@ Communication with the loan servicer, including documented payment attempts.
 
 Efforts to maximize income or minimize expenses where realistic.
 
-A Mississippi debtor at poverty-line income typically has a $0 monthly payment under SAVE. The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
+A Mississippi debtor at poverty-line income typically has a $0 monthly payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
 
 Partial Discharge in Mississippi
 
@@ -6139,7 +6139,7 @@ Income-Driven Repayment and the Good-Faith Prong
 
 For Missouri debtors in a Brunner-applying circuit (i.e., not the 8th), the good-faith prong is usually the hardest to meet. Courts expect evidence of:
 
-Enrollment in (or attempted enrollment in) an income-driven repayment plan (SAVE/REPAYE, PAYE, IBR, or ICR).
+Enrollment in (or attempted enrollment in) an income-driven repayment plan (today, IBR or the Repayment Assistance Plan; older records may show SAVE/REPAYE, PAYE, or ICR).
 
 Forbearances and deferments used when appropriate - but not as a substitute for actual repayment.
 
@@ -6147,7 +6147,7 @@ Communication with the loan servicer, including documented payment attempts.
 
 Efforts to maximize income or minimize expenses where realistic.
 
-A Missouri debtor at poverty-line income typically has a $0 monthly payment under SAVE. The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
+A Missouri debtor at poverty-line income typically has a $0 monthly payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
 
 Missouri Federal Bankruptcy Data
 
@@ -6300,7 +6300,7 @@ Income-Driven Repayment and the Good-Faith Prong
 
 For Montana debtors in a Brunner-applying circuit (i.e., not the 8th), the good-faith prong is usually the hardest to meet. Courts expect evidence of:
 
-Enrollment in (or attempted enrollment in) an income-driven repayment plan (SAVE/REPAYE, PAYE, IBR, or ICR).
+Enrollment in (or attempted enrollment in) an income-driven repayment plan (today, IBR or the Repayment Assistance Plan; older records may show SAVE/REPAYE, PAYE, or ICR).
 
 Forbearances and deferments used when appropriate - but not as a substitute for actual repayment.
 
@@ -6308,7 +6308,7 @@ Communication with the loan servicer, including documented payment attempts.
 
 Efforts to maximize income or minimize expenses where realistic.
 
-A Montana debtor at poverty-line income typically has a $0 monthly payment under SAVE. The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
+A Montana debtor at poverty-line income typically has a $0 monthly payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
 
 Partial Discharge in Montana
 
@@ -6439,7 +6439,7 @@ Income-Driven Repayment and the Good-Faith Prong
 
 For Nebraska debtors in a Brunner-applying circuit (i.e., not the 8th), the good-faith prong is usually the hardest to meet. Courts expect evidence of:
 
-Enrollment in (or attempted enrollment in) an income-driven repayment plan (SAVE/REPAYE, PAYE, IBR, or ICR).
+Enrollment in (or attempted enrollment in) an income-driven repayment plan (today, IBR or the Repayment Assistance Plan; older records may show SAVE/REPAYE, PAYE, or ICR).
 
 Forbearances and deferments used when appropriate - but not as a substitute for actual repayment.
 
@@ -6447,7 +6447,7 @@ Communication with the loan servicer, including documented payment attempts.
 
 Efforts to maximize income or minimize expenses where realistic.
 
-A Nebraska debtor at poverty-line income typically has a $0 monthly payment under SAVE. The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
+A Nebraska debtor at poverty-line income typically has a $0 monthly payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
 
 Nebraska Federal Bankruptcy Data
 
@@ -6600,7 +6600,7 @@ Income-Driven Repayment and the Good-Faith Prong
 
 For Nevada debtors in a Brunner-applying circuit (i.e., not the 8th), the good-faith prong is usually the hardest to meet. Courts expect evidence of:
 
-Enrollment in (or attempted enrollment in) an income-driven repayment plan (SAVE/REPAYE, PAYE, IBR, or ICR).
+Enrollment in (or attempted enrollment in) an income-driven repayment plan (today, IBR or the Repayment Assistance Plan; older records may show SAVE/REPAYE, PAYE, or ICR).
 
 Forbearances and deferments used when appropriate - but not as a substitute for actual repayment.
 
@@ -6608,7 +6608,7 @@ Communication with the loan servicer, including documented payment attempts.
 
 Efforts to maximize income or minimize expenses where realistic.
 
-A Nevada debtor at poverty-line income typically has a $0 monthly payment under SAVE. The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
+A Nevada debtor at poverty-line income typically has a $0 monthly payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
 
 Nevada Federal Bankruptcy Data
 
@@ -6761,7 +6761,7 @@ Income-Driven Repayment and the Good-Faith Prong
 
 For New Hampshire debtors in a Brunner-applying circuit (i.e., not the 8th), the good-faith prong is usually the hardest to meet. Courts expect evidence of:
 
-Enrollment in (or attempted enrollment in) an income-driven repayment plan (SAVE/REPAYE, PAYE, IBR, or ICR).
+Enrollment in (or attempted enrollment in) an income-driven repayment plan (today, IBR or the Repayment Assistance Plan; older records may show SAVE/REPAYE, PAYE, or ICR).
 
 Forbearances and deferments used when appropriate - but not as a substitute for actual repayment.
 
@@ -6769,7 +6769,7 @@ Communication with the loan servicer, including documented payment attempts.
 
 Efforts to maximize income or minimize expenses where realistic.
 
-A New Hampshire debtor at poverty-line income typically has a $0 monthly payment under SAVE. The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
+A New Hampshire debtor at poverty-line income typically has a $0 monthly payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
 
 Partial Discharge in New Hampshire
 
@@ -6908,7 +6908,7 @@ Income-Driven Repayment and the Good-Faith Prong
 
 For New Jersey debtors in a Brunner-applying circuit (i.e., not the 8th), the good-faith prong is usually the hardest to meet. Courts expect evidence of:
 
-Enrollment in (or attempted enrollment in) an income-driven repayment plan (SAVE/REPAYE, PAYE, IBR, or ICR).
+Enrollment in (or attempted enrollment in) an income-driven repayment plan (today, IBR or the Repayment Assistance Plan; older records may show SAVE/REPAYE, PAYE, or ICR).
 
 Forbearances and deferments used when appropriate - but not as a substitute for actual repayment.
 
@@ -6916,7 +6916,7 @@ Communication with the loan servicer, including documented payment attempts.
 
 Efforts to maximize income or minimize expenses where realistic.
 
-A New Jersey debtor at poverty-line income typically has a $0 monthly payment under SAVE. The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
+A New Jersey debtor at poverty-line income typically has a $0 monthly payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
 
 New Jersey Federal Bankruptcy Data
 
@@ -7069,7 +7069,7 @@ Income-Driven Repayment and the Good-Faith Prong
 
 For New Mexico debtors in a Brunner-applying circuit (i.e., not the 8th), the good-faith prong is usually the hardest to meet. Courts expect evidence of:
 
-Enrollment in (or attempted enrollment in) an income-driven repayment plan (SAVE/REPAYE, PAYE, IBR, or ICR).
+Enrollment in (or attempted enrollment in) an income-driven repayment plan (today, IBR or the Repayment Assistance Plan; older records may show SAVE/REPAYE, PAYE, or ICR).
 
 Forbearances and deferments used when appropriate - but not as a substitute for actual repayment.
 
@@ -7077,7 +7077,7 @@ Communication with the loan servicer, including documented payment attempts.
 
 Efforts to maximize income or minimize expenses where realistic.
 
-A New Mexico debtor at poverty-line income typically has a $0 monthly payment under SAVE. The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
+A New Mexico debtor at poverty-line income typically has a $0 monthly payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
 
 Partial Discharge in New Mexico
 
@@ -7216,7 +7216,7 @@ Income-Driven Repayment and the Good-Faith Prong
 
 For New York debtors in a Brunner-applying circuit (i.e., not the 8th), the good-faith prong is usually the hardest to meet. Courts expect evidence of:
 
-Enrollment in (or attempted enrollment in) an income-driven repayment plan (SAVE/REPAYE, PAYE, IBR, or ICR).
+Enrollment in (or attempted enrollment in) an income-driven repayment plan (today, IBR or the Repayment Assistance Plan; older records may show SAVE/REPAYE, PAYE, or ICR).
 
 Forbearances and deferments used when appropriate - but not as a substitute for actual repayment.
 
@@ -7224,7 +7224,7 @@ Communication with the loan servicer, including documented payment attempts.
 
 Efforts to maximize income or minimize expenses where realistic.
 
-A New York debtor at poverty-line income typically has a $0 monthly payment under SAVE. The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
+A New York debtor at poverty-line income typically has a $0 monthly payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
 
 New York Federal Bankruptcy Data
 
@@ -7377,7 +7377,7 @@ Income-Driven Repayment and the Good-Faith Prong
 
 For North Carolina debtors in a Brunner-applying circuit (i.e., not the 8th), the good-faith prong is usually the hardest to meet. Courts expect evidence of:
 
-Enrollment in (or attempted enrollment in) an income-driven repayment plan (SAVE/REPAYE, PAYE, IBR, or ICR).
+Enrollment in (or attempted enrollment in) an income-driven repayment plan (today, IBR or the Repayment Assistance Plan; older records may show SAVE/REPAYE, PAYE, or ICR).
 
 Forbearances and deferments used when appropriate - but not as a substitute for actual repayment.
 
@@ -7385,7 +7385,7 @@ Communication with the loan servicer, including documented payment attempts.
 
 Efforts to maximize income or minimize expenses where realistic.
 
-A North Carolina debtor at poverty-line income typically has a $0 monthly payment under SAVE. The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
+A North Carolina debtor at poverty-line income typically has a $0 monthly payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
 
 North Carolina Federal Bankruptcy Data
 
@@ -7530,7 +7530,7 @@ Income-Driven Repayment and the Good-Faith Prong
 
 For North Dakota debtors in a Brunner-applying circuit (i.e., not the 8th), the good-faith prong is usually the hardest to meet. Courts expect evidence of:
 
-Enrollment in (or attempted enrollment in) an income-driven repayment plan (SAVE/REPAYE, PAYE, IBR, or ICR).
+Enrollment in (or attempted enrollment in) an income-driven repayment plan (today, IBR or the Repayment Assistance Plan; older records may show SAVE/REPAYE, PAYE, or ICR).
 
 Forbearances and deferments used when appropriate - but not as a substitute for actual repayment.
 
@@ -7538,7 +7538,7 @@ Communication with the loan servicer, including documented payment attempts.
 
 Efforts to maximize income or minimize expenses where realistic.
 
-A North Dakota debtor at poverty-line income typically has a $0 monthly payment under SAVE. The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
+A North Dakota debtor at poverty-line income typically has a $0 monthly payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
 
 Partial Discharge in North Dakota
 
@@ -7677,7 +7677,7 @@ Income-Driven Repayment and the Good-Faith Prong
 
 For Ohio debtors in a Brunner-applying circuit (i.e., not the 8th), the good-faith prong is usually the hardest to meet. Courts expect evidence of:
 
-Enrollment in (or attempted enrollment in) an income-driven repayment plan (SAVE/REPAYE, PAYE, IBR, or ICR).
+Enrollment in (or attempted enrollment in) an income-driven repayment plan (today, IBR or the Repayment Assistance Plan; older records may show SAVE/REPAYE, PAYE, or ICR).
 
 Forbearances and deferments used when appropriate - but not as a substitute for actual repayment.
 
@@ -7685,7 +7685,7 @@ Communication with the loan servicer, including documented payment attempts.
 
 Efforts to maximize income or minimize expenses where realistic.
 
-A Ohio debtor at poverty-line income typically has a $0 monthly payment under SAVE. The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
+A Ohio debtor at poverty-line income typically has a $0 monthly payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
 
 Ohio Federal Bankruptcy Data
 
@@ -7838,7 +7838,7 @@ Income-Driven Repayment and the Good-Faith Prong
 
 For Oklahoma debtors in a Brunner-applying circuit (i.e., not the 8th), the good-faith prong is usually the hardest to meet. Courts expect evidence of:
 
-Enrollment in (or attempted enrollment in) an income-driven repayment plan (SAVE/REPAYE, PAYE, IBR, or ICR).
+Enrollment in (or attempted enrollment in) an income-driven repayment plan (today, IBR or the Repayment Assistance Plan; older records may show SAVE/REPAYE, PAYE, or ICR).
 
 Forbearances and deferments used when appropriate - but not as a substitute for actual repayment.
 
@@ -7846,7 +7846,7 @@ Communication with the loan servicer, including documented payment attempts.
 
 Efforts to maximize income or minimize expenses where realistic.
 
-A Oklahoma debtor at poverty-line income typically has a $0 monthly payment under SAVE. The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
+A Oklahoma debtor at poverty-line income typically has a $0 monthly payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
 
 Oklahoma Federal Bankruptcy Data
 
@@ -7999,7 +7999,7 @@ Income-Driven Repayment and the Good-Faith Prong
 
 For Oregon debtors in a Brunner-applying circuit (i.e., not the 8th), the good-faith prong is usually the hardest to meet. Courts expect evidence of:
 
-Enrollment in (or attempted enrollment in) an income-driven repayment plan (SAVE/REPAYE, PAYE, IBR, or ICR).
+Enrollment in (or attempted enrollment in) an income-driven repayment plan (today, IBR or the Repayment Assistance Plan; older records may show SAVE/REPAYE, PAYE, or ICR).
 
 Forbearances and deferments used when appropriate - but not as a substitute for actual repayment.
 
@@ -8007,7 +8007,7 @@ Communication with the loan servicer, including documented payment attempts.
 
 Efforts to maximize income or minimize expenses where realistic.
 
-A Oregon debtor at poverty-line income typically has a $0 monthly payment under SAVE. The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
+A Oregon debtor at poverty-line income typically has a $0 monthly payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
 
 Partial Discharge in Oregon
 
@@ -8146,7 +8146,7 @@ Income-Driven Repayment and the Good-Faith Prong
 
 For Pennsylvania debtors in a Brunner-applying circuit (i.e., not the 8th), the good-faith prong is usually the hardest to meet. Courts expect evidence of:
 
-Enrollment in (or attempted enrollment in) an income-driven repayment plan (SAVE/REPAYE, PAYE, IBR, or ICR).
+Enrollment in (or attempted enrollment in) an income-driven repayment plan (today, IBR or the Repayment Assistance Plan; older records may show SAVE/REPAYE, PAYE, or ICR).
 
 Forbearances and deferments used when appropriate - but not as a substitute for actual repayment.
 
@@ -8154,7 +8154,7 @@ Communication with the loan servicer, including documented payment attempts.
 
 Efforts to maximize income or minimize expenses where realistic.
 
-A Pennsylvania debtor at poverty-line income typically has a $0 monthly payment under SAVE. The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
+A Pennsylvania debtor at poverty-line income typically has a $0 monthly payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
 
 Pennsylvania Federal Bankruptcy Data
 
@@ -8307,7 +8307,7 @@ Income-Driven Repayment and the Good-Faith Prong
 
 For Rhode Island debtors in a Brunner-applying circuit (i.e., not the 8th), the good-faith prong is usually the hardest to meet. Courts expect evidence of:
 
-Enrollment in (or attempted enrollment in) an income-driven repayment plan (SAVE/REPAYE, PAYE, IBR, or ICR).
+Enrollment in (or attempted enrollment in) an income-driven repayment plan (today, IBR or the Repayment Assistance Plan; older records may show SAVE/REPAYE, PAYE, or ICR).
 
 Forbearances and deferments used when appropriate - but not as a substitute for actual repayment.
 
@@ -8315,7 +8315,7 @@ Communication with the loan servicer, including documented payment attempts.
 
 Efforts to maximize income or minimize expenses where realistic.
 
-A Rhode Island debtor at poverty-line income typically has a $0 monthly payment under SAVE. The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
+A Rhode Island debtor at poverty-line income typically has a $0 monthly payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
 
 Partial Discharge in Rhode Island
 
@@ -8454,7 +8454,7 @@ Income-Driven Repayment and the Good-Faith Prong
 
 For South Carolina debtors in a Brunner-applying circuit (i.e., not the 8th), the good-faith prong is usually the hardest to meet. Courts expect evidence of:
 
-Enrollment in (or attempted enrollment in) an income-driven repayment plan (SAVE/REPAYE, PAYE, IBR, or ICR).
+Enrollment in (or attempted enrollment in) an income-driven repayment plan (today, IBR or the Repayment Assistance Plan; older records may show SAVE/REPAYE, PAYE, or ICR).
 
 Forbearances and deferments used when appropriate - but not as a substitute for actual repayment.
 
@@ -8462,7 +8462,7 @@ Communication with the loan servicer, including documented payment attempts.
 
 Efforts to maximize income or minimize expenses where realistic.
 
-A South Carolina debtor at poverty-line income typically has a $0 monthly payment under SAVE. The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
+A South Carolina debtor at poverty-line income typically has a $0 monthly payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
 
 South Carolina Federal Bankruptcy Data
 
@@ -8607,7 +8607,7 @@ Income-Driven Repayment and the Good-Faith Prong
 
 For South Dakota debtors in a Brunner-applying circuit (i.e., not the 8th), the good-faith prong is usually the hardest to meet. Courts expect evidence of:
 
-Enrollment in (or attempted enrollment in) an income-driven repayment plan (SAVE/REPAYE, PAYE, IBR, or ICR).
+Enrollment in (or attempted enrollment in) an income-driven repayment plan (today, IBR or the Repayment Assistance Plan; older records may show SAVE/REPAYE, PAYE, or ICR).
 
 Forbearances and deferments used when appropriate - but not as a substitute for actual repayment.
 
@@ -8615,7 +8615,7 @@ Communication with the loan servicer, including documented payment attempts.
 
 Efforts to maximize income or minimize expenses where realistic.
 
-A South Dakota debtor at poverty-line income typically has a $0 monthly payment under SAVE. The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
+A South Dakota debtor at poverty-line income typically has a $0 monthly payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
 
 Partial Discharge in South Dakota
 
@@ -8754,7 +8754,7 @@ Income-Driven Repayment and the Good-Faith Prong
 
 For Tennessee debtors in a Brunner-applying circuit (i.e., not the 8th), the good-faith prong is usually the hardest to meet. Courts expect evidence of:
 
-Enrollment in (or attempted enrollment in) an income-driven repayment plan (SAVE/REPAYE, PAYE, IBR, or ICR).
+Enrollment in (or attempted enrollment in) an income-driven repayment plan (today, IBR or the Repayment Assistance Plan; older records may show SAVE/REPAYE, PAYE, or ICR).
 
 Forbearances and deferments used when appropriate - but not as a substitute for actual repayment.
 
@@ -8762,7 +8762,7 @@ Communication with the loan servicer, including documented payment attempts.
 
 Efforts to maximize income or minimize expenses where realistic.
 
-A Tennessee debtor at poverty-line income typically has a $0 monthly payment under SAVE. The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
+A Tennessee debtor at poverty-line income typically has a $0 monthly payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
 
 Tennessee Federal Bankruptcy Data
 
@@ -8915,7 +8915,7 @@ Income-Driven Repayment and the Good-Faith Prong
 
 For Texas debtors in a Brunner-applying circuit (i.e., not the 8th), the good-faith prong is usually the hardest to meet. Courts expect evidence of:
 
-Enrollment in (or attempted enrollment in) an income-driven repayment plan (SAVE/REPAYE, PAYE, IBR, or ICR).
+Enrollment in (or attempted enrollment in) an income-driven repayment plan (today, IBR or the Repayment Assistance Plan; older records may show SAVE/REPAYE, PAYE, or ICR).
 
 Forbearances and deferments used when appropriate - but not as a substitute for actual repayment.
 
@@ -8923,7 +8923,7 @@ Communication with the loan servicer, including documented payment attempts.
 
 Efforts to maximize income or minimize expenses where realistic.
 
-A Texas debtor at poverty-line income typically has a $0 monthly payment under SAVE. The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
+A Texas debtor at poverty-line income typically has a $0 monthly payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
 
 Texas Federal Bankruptcy Data
 
@@ -9076,7 +9076,7 @@ Income-Driven Repayment and the Good-Faith Prong
 
 For Utah debtors in a Brunner-applying circuit (i.e., not the 8th), the good-faith prong is usually the hardest to meet. Courts expect evidence of:
 
-Enrollment in (or attempted enrollment in) an income-driven repayment plan (SAVE/REPAYE, PAYE, IBR, or ICR).
+Enrollment in (or attempted enrollment in) an income-driven repayment plan (today, IBR or the Repayment Assistance Plan; older records may show SAVE/REPAYE, PAYE, or ICR).
 
 Forbearances and deferments used when appropriate - but not as a substitute for actual repayment.
 
@@ -9084,7 +9084,7 @@ Communication with the loan servicer, including documented payment attempts.
 
 Efforts to maximize income or minimize expenses where realistic.
 
-A Utah debtor at poverty-line income typically has a $0 monthly payment under SAVE. The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
+A Utah debtor at poverty-line income typically has a $0 monthly payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
 
 Partial Discharge in Utah
 
@@ -9223,7 +9223,7 @@ Income-Driven Repayment and the Good-Faith Prong
 
 For Vermont debtors in a Brunner-applying circuit (i.e., not the 8th), the good-faith prong is usually the hardest to meet. Courts expect evidence of:
 
-Enrollment in (or attempted enrollment in) an income-driven repayment plan (SAVE/REPAYE, PAYE, IBR, or ICR).
+Enrollment in (or attempted enrollment in) an income-driven repayment plan (today, IBR or the Repayment Assistance Plan; older records may show SAVE/REPAYE, PAYE, or ICR).
 
 Forbearances and deferments used when appropriate - but not as a substitute for actual repayment.
 
@@ -9231,7 +9231,7 @@ Communication with the loan servicer, including documented payment attempts.
 
 Efforts to maximize income or minimize expenses where realistic.
 
-A Vermont debtor at poverty-line income typically has a $0 monthly payment under SAVE. The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
+A Vermont debtor at poverty-line income typically has a $0 monthly payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
 
 Partial Discharge in Vermont
 
@@ -9370,7 +9370,7 @@ Income-Driven Repayment and the Good-Faith Prong
 
 For Virginia debtors in a Brunner-applying circuit (i.e., not the 8th), the good-faith prong is usually the hardest to meet. Courts expect evidence of:
 
-Enrollment in (or attempted enrollment in) an income-driven repayment plan (SAVE/REPAYE, PAYE, IBR, or ICR).
+Enrollment in (or attempted enrollment in) an income-driven repayment plan (today, IBR or the Repayment Assistance Plan; older records may show SAVE/REPAYE, PAYE, or ICR).
 
 Forbearances and deferments used when appropriate - but not as a substitute for actual repayment.
 
@@ -9378,7 +9378,7 @@ Communication with the loan servicer, including documented payment attempts.
 
 Efforts to maximize income or minimize expenses where realistic.
 
-A Virginia debtor at poverty-line income typically has a $0 monthly payment under SAVE. The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
+A Virginia debtor at poverty-line income typically has a $0 monthly payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
 
 Virginia Federal Bankruptcy Data
 
@@ -9531,7 +9531,7 @@ Income-Driven Repayment and the Good-Faith Prong
 
 For Washington debtors in a Brunner-applying circuit (i.e., not the 8th), the good-faith prong is usually the hardest to meet. Courts expect evidence of:
 
-Enrollment in (or attempted enrollment in) an income-driven repayment plan (SAVE/REPAYE, PAYE, IBR, or ICR).
+Enrollment in (or attempted enrollment in) an income-driven repayment plan (today, IBR or the Repayment Assistance Plan; older records may show SAVE/REPAYE, PAYE, or ICR).
 
 Forbearances and deferments used when appropriate - but not as a substitute for actual repayment.
 
@@ -9539,7 +9539,7 @@ Communication with the loan servicer, including documented payment attempts.
 
 Efforts to maximize income or minimize expenses where realistic.
 
-A Washington debtor at poverty-line income typically has a $0 monthly payment under SAVE. The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
+A Washington debtor at poverty-line income typically has a $0 monthly payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
 
 Partial Discharge in Washington
 
@@ -9678,7 +9678,7 @@ Income-Driven Repayment and the Good-Faith Prong
 
 For West Virginia debtors in a Brunner-applying circuit (i.e., not the 8th), the good-faith prong is usually the hardest to meet. Courts expect evidence of:
 
-Enrollment in (or attempted enrollment in) an income-driven repayment plan (SAVE/REPAYE, PAYE, IBR, or ICR).
+Enrollment in (or attempted enrollment in) an income-driven repayment plan (today, IBR or the Repayment Assistance Plan; older records may show SAVE/REPAYE, PAYE, or ICR).
 
 Forbearances and deferments used when appropriate - but not as a substitute for actual repayment.
 
@@ -9686,7 +9686,7 @@ Communication with the loan servicer, including documented payment attempts.
 
 Efforts to maximize income or minimize expenses where realistic.
 
-A West Virginia debtor at poverty-line income typically has a $0 monthly payment under SAVE. The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
+A West Virginia debtor at poverty-line income typically has a $0 monthly payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
 
 West Virginia Federal Bankruptcy Data
 
@@ -9839,7 +9839,7 @@ Income-Driven Repayment and the Good-Faith Prong
 
 For Wisconsin debtors in a Brunner-applying circuit (i.e., not the 8th), the good-faith prong is usually the hardest to meet. Courts expect evidence of:
 
-Enrollment in (or attempted enrollment in) an income-driven repayment plan (SAVE/REPAYE, PAYE, IBR, or ICR).
+Enrollment in (or attempted enrollment in) an income-driven repayment plan (today, IBR or the Repayment Assistance Plan; older records may show SAVE/REPAYE, PAYE, or ICR).
 
 Forbearances and deferments used when appropriate - but not as a substitute for actual repayment.
 
@@ -9847,7 +9847,7 @@ Communication with the loan servicer, including documented payment attempts.
 
 Efforts to maximize income or minimize expenses where realistic.
 
-A Wisconsin debtor at poverty-line income typically has a $0 monthly payment under SAVE. The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
+A Wisconsin debtor at poverty-line income typically has a $0 monthly payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
 
 Wisconsin Federal Bankruptcy Data
 
@@ -10000,7 +10000,7 @@ Income-Driven Repayment and the Good-Faith Prong
 
 For Wyoming debtors in a Brunner-applying circuit (i.e., not the 8th), the good-faith prong is usually the hardest to meet. Courts expect evidence of:
 
-Enrollment in (or attempted enrollment in) an income-driven repayment plan (SAVE/REPAYE, PAYE, IBR, or ICR).
+Enrollment in (or attempted enrollment in) an income-driven repayment plan (today, IBR or the Repayment Assistance Plan; older records may show SAVE/REPAYE, PAYE, or ICR).
 
 Forbearances and deferments used when appropriate - but not as a substitute for actual repayment.
 
@@ -10008,7 +10008,7 @@ Communication with the loan servicer, including documented payment attempts.
 
 Efforts to maximize income or minimize expenses where realistic.
 
-A Wyoming debtor at poverty-line income typically has a $0 monthly payment under SAVE. The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
+A Wyoming debtor at poverty-line income typically has a $0 monthly payment under IBR, because IBR payments are based only on income above 150% of the poverty guideline (34 CFR 685.209). The point of showing IDR enrollment is not that it produced high payments - it is that the debtor tried. See good-faith requirement explained and persistent effort documentation.
 
 Partial Discharge in Wyoming
 
